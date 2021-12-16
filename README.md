@@ -1,4 +1,27 @@
-### Hi there 👋
+# Hi there, I'm Shijin (Kevin) Yang 👋
+
+## Here is a brief introduction about myself.
+
+I am currently working as a geomatics technician, on GIS data :artificial_satellite:
+
+Interests in data science, machine learning, and related fields :telescope:
+
+## How to reach me
+
+| [:rocket: GitHub](https://github.com/sjyangkevin) | [:rocket: Kaggle](https://www.kaggle.com/sjyangkevin) | [:rocket: LinkedIn](https://www.linkedin.com/in/kevinshijinyang/) |
+
+## My machine learning portfolio :robot:
+
+- Computer Vision  
+     - [Yolo-V3 (You Only Look Once)](https://github.com/sjyangkevin/Yolo-v3)
+
+- Natural Language Processing
+
+- Time-series Analysis
+
+- Clustering Analysis
+
+- Others
 
 <!--
 **sjyangkevin/sjyangkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
