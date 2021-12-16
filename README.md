@@ -8,7 +8,7 @@ Interests in data science, machine learning, and related fields :telescope:
 
 ## How to reach me
 
-| [:rocket: GitHub](https://github.com/sjyangkevin) | [:rocket: Kaggle](https://www.kaggle.com/sjyangkevin) | [:rocket: LinkedIn](https://www.linkedin.com/in/kevinshijinyang/) |
+| [:rocket: LinkedIn](https://www.linkedin.com/in/kevinshijinyang/) | [:rocket: GitHub](https://github.com/sjyangkevin) | [:rocket: Kaggle](https://www.kaggle.com/sjyangkevin) | [:rocket: Gitee](https://gitee.com/shingyang997) |
 
 ## My machine learning portfolio :robot:
 
