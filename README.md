@@ -15,7 +15,7 @@ Interests in data science, machine learning, and related fields :telescope:
 ## My machine learning portfolio :robot:
 
 - Computer Vision (Object Detection)
-     - (On-going) [TensorFlow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) (Kaggle Research Code Competition, Top <strong>4%</strong> - <strong>35</strong> out of 1234)
+     - (On-going) [TensorFlow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) 
 
      - November 10, 2021: [Yolo-V3 (You Only Look Once)](https://github.com/sjyangkevin/Yolo-v3) (YoloV3 Train/Predict Pipeline)
 
