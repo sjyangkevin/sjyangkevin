@@ -23,7 +23,7 @@ Interests in data science, machine learning, and related fields :telescope:
      - February 18, 2021: [Cassava Leaf Disease Classification](https://www.kaggle.com/pplrayang/cassava-leaf-disease-train-rm-c3) (Kaggle Research Code Competition, Top <strong>14%</strong> - <strong>543</strong> out of 3900)
 
 - Natural Language Processing
-     - June 16, 2020: [Tweet Sentiment Extraction](https://www.kaggle.com/pplrayang/code) (Kaggle Featured Code Competition, Top <strong>18%</strong> - <strong>396</strong> out of 2225)
+     - June 16, 2020: [Tweet Sentiment Extraction](https://www.kaggle.com/pplrayang/kernel1d32063459) (Kaggle Featured Code Competition, Top <strong>18%</strong> - <strong>396</strong> out of 2225)
 
 - Generative Adversarial Network (GANs)
      - August 28, 2019: [Generative Dog Images](https://www.kaggle.com/pplrayang/dcgan-large-batch/notebook) (Kaggle Research Code Competition, Top <strong>44%</strong> - <strong>385</strong> out of 927)
