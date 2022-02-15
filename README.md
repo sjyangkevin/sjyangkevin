@@ -15,18 +15,18 @@ Interests in data science, machine learning, and related fields :telescope:
 ## My machine learning portfolio :robot:
 
 - Computer Vision (Object Detection)
-     - February 14, 2022 [TensorFlow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) (Kaggle Research Code Competition, Top <strong>18%</strong> - <strong>370</strong> out of 2109
+     - February 14, 2022 [TensorFlow - Help Protect the Great Barrier Reef](https://www.kaggle.com/c/tensorflow-great-barrier-reef/overview) (Kaggle Code Competition, Top <strong>18%</strong> - <strong>370</strong> out of 2109
 
      - November 10, 2021: [Yolo-V3 (You Only Look Once)](https://github.com/sjyangkevin/Yolo-v3) (YoloV3 Train/Predict Pipeline)
 
 - Computer Vision (Image Classification)
-     - February 18, 2021: [Cassava Leaf Disease Classification](https://www.kaggle.com/pplrayang/cassava-leaf-disease-train-rm-c3) (Kaggle Research Code Competition, Top <strong>14%</strong> - <strong>543</strong> out of 3900)
+     - February 18, 2021: [Cassava Leaf Disease Classification](https://www.kaggle.com/pplrayang/cassava-leaf-disease-train-rm-c3) (Kaggle Code Competition, Top <strong>14%</strong> - <strong>543</strong> out of 3900)
 
 - Natural Language Processing
-     - June 16, 2020: [Tweet Sentiment Extraction](https://www.kaggle.com/pplrayang/kernel1d32063459) (Kaggle Featured Code Competition, Top <strong>18%</strong> - <strong>396</strong> out of 2225)
+     - June 16, 2020: [Tweet Sentiment Extraction](https://www.kaggle.com/pplrayang/kernel1d32063459) (Kaggle Code Competition, Top <strong>18%</strong> - <strong>396</strong> out of 2225)
 
 - Generative Adversarial Network (GANs)
-     - August 28, 2019: [Generative Dog Images](https://www.kaggle.com/pplrayang/dcgan-large-batch/notebook) (Kaggle Research Code Competition, Top <strong>44%</strong> - <strong>385</strong> out of 927)
+     - August 28, 2019: [Generative Dog Images](https://www.kaggle.com/pplrayang/dcgan-large-batch/notebook) (Kaggle Code Competition, Top <strong>44%</strong> - <strong>385</strong> out of 927)
 
 - Clustering Analysis
      - November 22, 2021: [Customer Personality Analysis](https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers) (Kaggle Datasets, Identifying the Top-K Buyers for Products)
