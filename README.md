@@ -14,13 +14,18 @@ Interests in data science, machine learning, and related fields :telescope:
 
 ## My machine learning portfolio :robot:
 
-- Computer Vision (Object Detection)
-     - February 14, 2022: [TensorFlow - Help Protect the Great Barrier Reef](https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef) (Kaggle Code Competition, Top <strong>16%</strong> - <strong>324</strong> out of 2026)
+- Computer Vision
+     - February 14, 2022: [TensorFlow - Help Protect the Great Barrier Reef](https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef) (Kaggle Code Competition, Top <strong>16%</strong> - <strong>323</strong> out of 2026)
 
      - November 10, 2021: [Yolo-V3 (You Only Look Once)](https://github.com/sjyangkevin/Yolo-v3) (YoloV3 Train/Predict Pipeline)
-
-- Computer Vision (Image Classification)
      - February 18, 2021: [Cassava Leaf Disease Classification](https://www.kaggle.com/pplrayang/cassava-leaf-disease-train-rm-c3) (Kaggle Code Competition, Top <strong>14%</strong> - <strong>543</strong> out of 3900)
+     - (On-going): [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/c/happy-whale-and-dolphin) (Kaggle Code Competition)
+
+- Recommendation System
+     - (On-going): [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations) (Kaggle Code Competition)
+
+- Financial Forecasting
+     - (On-going): [Ubiquant Market Prediction](https://www.kaggle.com/c/ubiquant-market-prediction/overview) (Kaggle Code Competition)
 
 - Natural Language Processing
      - June 16, 2020: [Tweet Sentiment Extraction](https://www.kaggle.com/pplrayang/kernel1d32063459) (Kaggle Code Competition, Top <strong>18%</strong> - <strong>396</strong> out of 2225)
