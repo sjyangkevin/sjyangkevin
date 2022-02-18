@@ -15,11 +15,11 @@ Interests in data science, machine learning, and related fields :telescope:
 ## My machine learning portfolio :robot:
 
 - Computer Vision
+     - (On-going): [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/c/happy-whale-and-dolphin) (Kaggle Code Competition)
      - February 14, 2022: [TensorFlow - Help Protect the Great Barrier Reef](https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef) (Kaggle Code Competition, Top <strong>16%</strong> - <strong>323</strong> out of 2026)
 
      - November 10, 2021: [Yolo-V3 (You Only Look Once)](https://github.com/sjyangkevin/Yolo-v3) (YoloV3 Train/Predict Pipeline)
      - February 18, 2021: [Cassava Leaf Disease Classification](https://www.kaggle.com/pplrayang/cassava-leaf-disease-train-rm-c3) (Kaggle Code Competition, Top <strong>14%</strong> - <strong>543</strong> out of 3900)
-     - (On-going): [Happywhale - Whale and Dolphin Identification](https://www.kaggle.com/c/happy-whale-and-dolphin) (Kaggle Code Competition)
 
 - Recommendation System
      - (On-going): [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations) (Kaggle Code Competition)
