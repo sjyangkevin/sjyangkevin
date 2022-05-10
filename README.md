@@ -2,7 +2,7 @@
 
 ## Here is a brief introduction about myself.
 
-I am currently working as a geomatics technician, on GIS data :artificial_satellite:
+I am currently working as a <strong>Data Engineer</strong>
 
 Interests in data science, machine learning, and related fields :telescope:
 
@@ -19,9 +19,6 @@ Interests in data science, machine learning, and related fields :telescope:
 
      - November 10, 2021: [Yolo-V3 (You Only Look Once)](https://github.com/sjyangkevin/Yolo-v3) (YoloV3 Train/Predict Pipeline)
      - February 18, 2021: [Cassava Leaf Disease Classification](https://www.kaggle.com/pplrayang/cassava-leaf-disease-train-rm-c3) (Kaggle Code Competition, Top <strong>14%</strong> - <strong>543</strong> out of 3900)
-
-- Recommendation System
-     - (On-going): [H&M Personalized Fashion Recommendations](https://www.kaggle.com/c/h-and-m-personalized-fashion-recommendations) (Kaggle Code Competition)
 
 - Natural Language Processing
      - June 16, 2020: [Tweet Sentiment Extraction](https://www.kaggle.com/pplrayang/kernel1d32063459) (Kaggle Code Competition, Top <strong>18%</strong> - <strong>396</strong> out of 2225)
