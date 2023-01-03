@@ -29,6 +29,12 @@ Interests in data science, machine learning, and related fields :telescope:
 - Clustering Analysis
      - November 22, 2021: [Customer Personality Analysis](https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers) (Kaggle Datasets, Identifying the Top-K Buyers for Products)
 
+## My software development portfolio :robot:
+
+- PC Components Stock Viewer
+     - January 2, 2023: [GitHub](https://github.com/sjyangkevin/pc-components-stock-monitor)
+     - A web application for viewing PC hardware stock, implemented in Docker, Flask, Scrapy, and MongoDB 
+
 <!--
 **sjyangkevin/sjyangkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
