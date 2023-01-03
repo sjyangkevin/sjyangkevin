@@ -1,7 +1,3 @@
-# Hi there, I'm Shijin (Kevin) Yang 👋
-
-## Here is a brief introduction about myself.
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=4800&color=8619FF&vCenter=true&multiline=true&height=110&lines=Hi+everyone%2C+my+name+is+Kevin;I+am+working+as+a+Data+Engineer;with+high+interests+in+Artificial+Intelligence+and+MLOps;continuously+growing+software+development+skills;and+learning+the+best+practices)](https://git.io/typing-svg)
 
 ## How to reach me
