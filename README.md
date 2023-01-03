@@ -2,9 +2,7 @@
 
 ## Here is a brief introduction about myself.
 
-I am currently working as a <strong>Data Engineer</strong>
-
-Interests in data science, machine learning, and related fields :telescope:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=4800&color=41FF09&background=000000&vCenter=true&multiline=true&width=500&height=110&lines=Hi+everyone%2C+my+name+is+Kevin;I+am+working+as+a+Data+Engineer;with+high+interests+in+Artificial+Intelligence+and+MLOps;continuously+growing+software+development+skills;and+learning+the+best+practices)](https://git.io/typing-svg)
 
 ## How to reach me
 
