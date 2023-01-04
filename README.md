@@ -2,12 +2,19 @@
 
 <a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=8619FF&vCenter=true&multiline=true&height=110&lines=Hi+everyone%2C+my+name+is+Shijin+(Kevin);I+am+currently+working+as+a+Data+Engineer;with+high+interests+in+AI,+ML,+and+MLOps" alt="Typing SVG" /></a>
 
-## 📫 How to reach me:
-
-<div class="row">
-     <a href="https://www.linkedin.com/in/kevinshijinyang/"><img alt="linkedin" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-     <a href="https://github.com/sjyangkevin"><img alt="github" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
-     <a href="https://www.kaggle.com/sjyangkevin"><img alt="kaggle" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kevinshijinyang/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/sjyangkevin">
+    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/sjyangkevin">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+  <a href="https://www.youtube.com/channel/UCTeN-gQNzs4bhnzZ5CzSceA">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </div>
 
 ## Tools I have used and learned
