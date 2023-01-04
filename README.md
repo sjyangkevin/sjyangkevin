@@ -6,55 +6,101 @@
 
 ## Tools I have used and learned
 <div class="row">
-     <img alt="Azure" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-     <img alt="Bash" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-     <img alt="BitBucket" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
-     <img alt="Bootstrap" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-     <img alt="C" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-     <img alt="CMake" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
-     <img alt="C++" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-     <img alt="CSS3" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
-     <img alt="D3.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
-     <img alt="Dart" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-     <img alt="Docker" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-     <img alt="Flask" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-     <img alt="Flutter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-     <img alt="Git" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-     <img alt="Golang" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-     <img alt="GCP" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-     <img alt="HTML5" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-     <img alt="JavaScript" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-     <img alt="Jenkins" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-     <img alt="Jupyter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-     <img alt="Kubernetes" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-     <img alt="MongoDB" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-     <img alt="MySQL" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-     <img alt="Nginx" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-     <img alt="Node.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-     <img alt="npm" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-     <img alt="numpy" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-     <img alt="numpy" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-     <img alt="postgres" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-     <img alt="python" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-     <img alt="pytorch" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-     <img alt="qt" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-     <img alt="r" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-     <img alt="react" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img alt="redux" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
-     <img alt="redis" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-     <img alt="sqlite" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-     <img alt="tensorflow" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-     <img alt="terraform" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-     <img alt="pytest" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
-     <img alt="opencv" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-     <img alt="anaconda" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-     <img alt="aws" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-     <img alt="hadoop" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" />
-     <img alt="hive" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
-     <img alt="spark" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
-     <img alt="airflow" style="width:50px;height:50px;" src="https://uploads-ssl.webflow.com/5d1126db6761201d71e43753/5fac5437534f134d84dad340_pin_large.png" />
-     <img alt="mlflow" style="width:50px;height:50px;" src="https://archive.org/download/github.com-mlflow-mlflow_-_2021-04-30_16-23-15/cover.jpg" />
-     <img alt="databricks" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
+     <table>
+          <tr>
+               <td>Programming Languages</td>
+               <td>
+                    <img alt="python" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+                    <img alt="C" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+                    <img alt="C++" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+                    <img alt="JavaScript" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+                    <img alt="r" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
+                    <img alt="Golang" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+                    <img alt="Dart" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+                    <img alt="Bash" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+               </td>
+          </tr>
+          <tr>
+               <td>Big Data</td>
+               <td>
+                    <img alt="hadoop" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" />
+                    <img alt="hive" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
+                    <img alt="spark" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
+                    <img alt="airflow" style="width:50px;height:50px;" src="https://uploads-ssl.webflow.com/5d1126db6761201d71e43753/5fac5437534f134d84dad340_pin_large.png" />
+                    <img alt="databricks" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
+               </td>
+          </tr>
+          <tr>
+               <td>Cloud Providers</td>
+               <td>
+                    <img alt="Azure" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
+                    <img alt="GCP" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
+                    <img alt="aws" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+               </td>
+          </tr>
+          <tr>
+               <td>DevOps</td>
+               <td>
+                    <img alt="Git" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+                    <img alt="Docker" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+                    <img alt="Kubernetes" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
+                    <img alt="terraform" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
+                    <img alt="Jenkins" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+               </td>
+          </tr>
+          <tr>
+               <td>Machine Learning</td>
+               <td>
+                    <img alt="pytorch" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+                    <img alt="tensorflow" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+                    <img alt="mlflow" style="width:50px;height:50px;" src="https://archive.org/download/github.com-mlflow-mlflow_-_2021-04-30_16-23-15/cover.jpg" />
+                    <img alt="opencv" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+               </td>
+          </tr>
+          <tr>
+               <td>Web Development</td>
+               <td>
+                    <img alt="Flask" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+                    <img alt="Node.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+                    <img alt="Bootstrap" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+                    <img alt="react" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+                    <img alt="redux" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+                    <img alt="Nginx" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+                    <img alt="HTML5" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+                    <img alt="CSS3" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
+                    <img alt="D3.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" />
+               </td>
+          </tr>
+          <tr>
+               <td>Mobile Development</td>
+               <td>
+                    <img alt="Flutter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+               </td>
+          </tr>
+          <tr>
+               <td>Databases</td>
+               <td>
+                    <img alt="postgres" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+                    <img alt="MySQL" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+                    <img alt="redis" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+                    <img alt="MongoDB" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+                    <img alt="sqlite" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+               </td>
+          </tr>
+          <tr>
+               <td>Others</td>
+               <td>
+                    <img alt="numpy" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+                    <img alt="pandas" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+                    <img alt="Jupyter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+                    <img alt="anaconda" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+                    <img alt="pytest" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
+                    <img alt="qt" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+                    <img alt="CMake" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
+                    <img alt="npm" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+               </td>
+          </tr>
+     </table>
 </div>
 
 ## My machine learning portfolio :robot:
