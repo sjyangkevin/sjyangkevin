@@ -48,8 +48,13 @@
      <img alt="pytest" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
      <img alt="opencv" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
      <img alt="anaconda" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-     <img alt="apache" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original-wordmark.svg" />
      <img alt="aws" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+     <img alt="hadoop" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" />
+     <img alt="hive" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
+     <img alt="spark" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
+     <img alt="airflow" style="width:50px;height:50px;" src="https://uploads-ssl.webflow.com/5d1126db6761201d71e43753/5fac5437534f134d84dad340_pin_large.png" />
+     <img alt="mlflow" style="width:50px;height:50px;" src="https://archive.org/download/github.com-mlflow-mlflow_-_2021-04-30_16-23-15/cover.jpg" />
+     <img alt="databricks" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
 </div>
 
 ## My machine learning portfolio :robot:
