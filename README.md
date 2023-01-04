@@ -37,7 +37,7 @@
                </td>
           </tr>
           <tr>
-               <td>Cloud Providers</td>
+               <td>Cloud Services</td>
                <td>
                     <img alt="Azure" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
                     <img alt="GCP" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
