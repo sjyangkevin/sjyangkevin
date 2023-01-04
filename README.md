@@ -1,4 +1,4 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=sjyangkevin&style=flat-square&color=blue" alt=""/>
+<img align="right" src="https://komarev.com/ghpvc/?username=sjyangkevin&style=flat-square&color=brightgreen" alt=""/>
 
 <img style="width:90px;height=160px;" align="left" src="https://media.giphy.com/media/J1Qp5WXgzdG6eZrxHn/giphy.gif" >
 
