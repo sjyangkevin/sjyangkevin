@@ -93,6 +93,12 @@
                </td>
           </tr>
           <tr>
+               <td>Web Crawling</td>
+               <td>
+                    <img alt="scrapy" style="width:50px;height:50px;" src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" />
+               </td>
+          </tr>
+          <tr>
                <td>Others</td>
                <td>
                     <img alt="numpy" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
