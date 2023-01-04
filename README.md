@@ -19,7 +19,11 @@
   </a>
 </div>
 
-## Tools I have used and learned
+## :fire: My Status
+
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sjyangkevin&theme=dark&border_radius=20&date_format=M%20j%5B%2C%20Y%5D" alt="Strike" /></a>
+
+## :hammer_and_wrench: Tools I have used and learned
 <div class="row">
      <table>
           <tr>
@@ -125,7 +129,7 @@
      </table>
 </div>
 
-## My machine learning portfolio :robot:
+## :robot: My machine learning portfolio
 
 - Computer Vision
      - February 14, 2022: [TensorFlow - Help Protect the Great Barrier Reef](https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef) (Kaggle Code Competition, Top <strong>16%</strong> - <strong>323</strong> out of 2026)
@@ -142,12 +146,11 @@
 - Clustering Analysis
      - November 22, 2021: [Customer Personality Analysis](https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers) (Kaggle Datasets, Identifying the Top-K Buyers for Products)
 
-## My software development portfolio :robot:
+## :robot: My software development portfolio
 
 - PC Components Stock Viewer
      - January 2, 2023: [GitHub](https://github.com/sjyangkevin/pc-components-stock-monitor)
      - A web application for viewing PC hardware stock, implemented in Docker, Flask, Scrapy, and MongoDB 
-
 <!--
 **sjyangkevin/sjyangkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
