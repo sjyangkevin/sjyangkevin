@@ -21,9 +21,9 @@
 
 ## :fire: My Status
 
-<a href="https://git.io/streak-stats"><img align="left" style="width:400px;" src="https://streak-stats.demolab.com?user=sjyangkevin&theme=dark&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="left" style="width:400px;" src="https://streak-stats.demolab.com?user=sjyangkevin&theme=transparent&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:336px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyangkevin&langs_count=8&layout=compact&theme=dark" alt="toplang" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:336px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyangkevin&langs_count=8&layout=compact&theme=transparent" alt="toplang" /></a>
 
 ## :hammer_and_wrench: Tools I have used and learned
 <div class="row">
