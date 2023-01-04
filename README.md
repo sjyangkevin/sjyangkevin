@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=8619FF&vCenter=true&multiline=true&height=110&lines=Hi+everyone%2C+my+name+is+Shijin+(Kevin);I+am+currently+working+as+a+Data+Engineer;with+high+interests+in+AI,+ML,+and+MLOps)](https://git.io/typing-svg)
+<img style="width:90px;height=160px;" align="left" src="https://media.giphy.com/media/J1Qp5WXgzdG6eZrxHn/giphy.gif" >
+
+<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=8619FF&vCenter=true&multiline=true&height=110&lines=Hi+everyone%2C+my+name+is+Shijin+(Kevin);I+am+currently+working+as+a+Data+Engineer;with+high+interests+in+AI,+ML,+and+MLOps" alt="Typing SVG" /></a>
 
 ## 📫 How to reach me:
 
