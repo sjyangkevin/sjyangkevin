@@ -1,8 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=8619FF&vCenter=true&multiline=true&height=110&lines=Hi+everyone%2C+my+name+is+Shijin+(Kevin);I+am+currently+working+as+a+Data+Engineer;with+high+interests+in+AI,+ML,+and+MLOps)](https://git.io/typing-svg)
 
-## How to reach me
+## 📫 How to reach me:
 
-| [:rocket: LinkedIn](https://www.linkedin.com/in/kevinshijinyang/) | [:rocket: GitHub](https://github.com/sjyangkevin) | [:rocket: Kaggle](https://www.kaggle.com/sjyangkevin) | 
+<div class="row">
+     <a href="https://www.linkedin.com/in/kevinshijinyang/"><img alt="linkedin" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+     <a href="https://github.com/sjyangkevin"><img alt="github" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></a>
+     <a href="https://www.kaggle.com/sjyangkevin"><img alt="kaggle" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
+</div>
 
 ## Tools I have used and learned
 <div class="row">
@@ -61,7 +65,7 @@
                <td>Web Development</td>
                <td>
                     <img alt="Flask" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-                    <img alt="Node.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+                    <img alt="Node.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
                     <img alt="Bootstrap" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
                     <img alt="react" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                     <img alt="redux" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
@@ -75,6 +79,7 @@
                <td>Mobile Development</td>
                <td>
                     <img alt="Flutter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+                    <img alt="Android Studio" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
                </td>
           </tr>
           <tr>
