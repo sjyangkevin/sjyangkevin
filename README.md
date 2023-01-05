@@ -21,9 +21,9 @@
 
 ## :fire: My Status
 
-<a href="https://git.io/streak-stats"><img align="left" style="width:400px;" src="https://streak-stats.demolab.com?user=sjyangkevin&theme=transparent&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" /></a>
+<a href="https://git.io/streak-stats"><img align="left" style="width:400px;" src="https://streak-stats.demolab.com?user=sjyangkevin&theme=highcontrast&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" /></a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:336px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyangkevin&langs_count=8&layout=compact&theme=transparent" alt="toplang" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:336px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyangkevin&langs_count=8&layout=compact&theme=great-gatsby" alt="toplang" /></a>
 
 ## :hammer_and_wrench: Tools I have used and learned
 <div class="row">
@@ -133,26 +133,107 @@
 
 ## :robot: My machine learning portfolio
 
-- Computer Vision
-     - February 14, 2022: [TensorFlow - Help Protect the Great Barrier Reef](https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef) (Kaggle Code Competition, Top <strong>16%</strong> - <strong>323</strong> out of 2026)
+#### TensorFlow - Help Protect the Great Barrier Reef 
 
-     - November 10, 2021: [Yolo-V3 (You Only Look Once)](https://github.com/sjyangkevin/Yolo-v3) (YoloV3 Train/Predict Pipeline)
-     - February 18, 2021: [Cassava Leaf Disease Classification](https://www.kaggle.com/pplrayang/cassava-leaf-disease-train-rm-c3) (Kaggle Code Competition, Top <strong>14%</strong> - <strong>543</strong> out of 3900)
+<div>
+<img src="https://img.shields.io/badge/task-computer%20vision-blueviolet">
+<img src="https://img.shields.io/badge/model-YoloV5-blue">
+<img src="https://img.shields.io/badge/F2%20score-0.644-brightgreen">
+<img src="https://img.shields.io/badge/rank-Top%2016%25-brightgreen">
+</div>
 
-- Natural Language Processing
-     - June 16, 2020: [Tweet Sentiment Extraction](https://www.kaggle.com/pplrayang/kernel1d32063459) (Kaggle Code Competition, Top <strong>18%</strong> - <strong>396</strong> out of 2225)
+###### :timer_clock: November 22, 2021 - February 14, 2022
 
-- Generative Adversarial Network (GANs)
-     - August 28, 2019: [Generative Dog Images](https://www.kaggle.com/pplrayang/dcgan-large-batch/notebook) (Kaggle Code Competition, Top <strong>44%</strong> - <strong>385</strong> out of 927)
+<a href="https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef">
+  <img src="https://img.shields.io/badge/Project%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/>
+</a>
+<hr>
 
-- Clustering Analysis
-     - November 22, 2021: [Customer Personality Analysis](https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers) (Kaggle Datasets, Identifying the Top-K Buyers for Products)
+#### Cassava Leaf Disease Classification
 
-## :robot: My software development portfolio
+<div>
+<img src="https://img.shields.io/badge/task-computer%20vision-blueviolet">
+<img src="https://img.shields.io/badge/model-EfficientNet-blue">
+<img src="https://img.shields.io/badge/accuracy-0.8972-brightgreen">
+<img src="https://img.shields.io/badge/rank-Top%2014%25-brightgreen">
+</div>
 
-- PC Components Stock Viewer
-     - January 2, 2023: [GitHub](https://github.com/sjyangkevin/pc-components-stock-monitor)
-     - A web application for viewing PC hardware stock, implemented in Docker, Flask, Scrapy, and MongoDB 
+###### :timer_clock: November 19, 2020 - February 18, 2021
+
+<a href="https://www.kaggle.com/code/pplrayang/cassava-leaf-disease-train-rm-c3/notebook">
+  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
+</a>
+<hr>
+
+#### Tweet Sentiment Extraction
+
+<div>
+<img src="https://img.shields.io/badge/task-natural%20language%20processing-blueviolet">
+<img src="https://img.shields.io/badge/model-roBERTa-blue">
+<img src="https://img.shields.io/badge/model-BERT-blue">
+<img src="https://img.shields.io/badge/Jaccard%20score-0.7146-brightgreen">
+<img src="https://img.shields.io/badge/rank-Top%2018%25-brightgreen">
+</div>
+
+###### :timer_clock: March 23, 2020 - June 16, 2020
+
+<a href="https://www.kaggle.com/code/pplrayang/kernel1d32063459/notebook">
+  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
+</a>
+<hr>
+
+#### Generative Dog Images
+
+<div>
+<img src="https://img.shields.io/badge/task-GANs-blueviolet">
+<img src="https://img.shields.io/badge/model-DCGAN-blue">
+<img src="https://img.shields.io/badge/MiFID-166.9341-brightgreen">
+<img src="https://img.shields.io/badge/rank-Top%2044%25-brightgreen">
+</div>
+
+###### :timer_clock: June 28, 2019 - August 28, 2019
+
+<a href="https://www.kaggle.com/pplrayang/dcgan-large-batch/notebook">
+  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
+</a>
+<hr>
+
+#### Customer Personality Analysis
+
+<div>
+<img src="https://img.shields.io/badge/task-clustering%20analysis-blueviolet">
+<img src="https://img.shields.io/badge/model-rule--based%20systems-blue">
+</div>
+
+###### :timer_clock: November, 2021
+
+<a href="https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers">
+  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
+</a>
+<hr>
+
+## :computer: My software development portfolio
+
+#### PC Components Stock Viewer
+
+<div>
+<img src="https://img.shields.io/badge/task-web%20crawling-blueviolet">
+<img src="https://img.shields.io/badge/task-web%20application-blueviolet">
+<img src="https://img.shields.io/badge/languages-Python-blue">
+<img src="https://img.shields.io/badge/languages-Javascript-blue">
+<img src="https://img.shields.io/badge/database-MongoDB-yellow">
+<img src="https://img.shields.io/badge/frameworks-Scrapy-brightgreen">
+<img src="https://img.shields.io/badge/frameworks-Flask-brightgreen">
+<img src="https://img.shields.io/badge/tools-Docker-ff69b4">
+</div>
+
+###### :timer_clock: December, 2022
+
+<a href="https://github.com/sjyangkevin/pc-components-stock-monitor">
+  <img src="https://img.shields.io/badge/GitHub%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="github repo"/>
+</a>
+<hr>
+
 <!--
 **sjyangkevin/sjyangkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
