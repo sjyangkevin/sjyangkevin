@@ -19,13 +19,13 @@
   </a>
 </div>
 
-## :fire: My Status
+# :fire: My Status
 
 <a href="https://git.io/streak-stats"><img align="left" style="width:400px;" src="https://streak-stats.demolab.com?user=sjyangkevin&theme=highcontrast&border_radius=6&date_format=M%20j%5B%2C%20Y%5D" alt="Streak" /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img style="width:336px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjyangkevin&langs_count=8&layout=compact&theme=great-gatsby" alt="toplang" /></a>
 
-## :hammer_and_wrench: Tools I have used and learned
+# :hammer_and_wrench: Tools I have used and learned
 <div class="row">
      <table>
           <tr>
@@ -131,7 +131,7 @@
      </table>
 </div>
 
-## :robot: My machine learning portfolio
+# :robot: My machine learning portfolio
 
 #### TensorFlow - Help Protect the Great Barrier Reef 
 
@@ -142,7 +142,7 @@
 <img src="https://img.shields.io/badge/rank-Top%2016%25-brightgreen">
 </div>
 
-###### :timer_clock: November 22, 2021 - February 14, 2022
+###### November 22, 2021 - February 14, 2022
 
 <a href="https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef">
   <img src="https://img.shields.io/badge/Github%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/>
@@ -158,7 +158,7 @@
 <img src="https://img.shields.io/badge/rank-Top%2014%25-brightgreen">
 </div>
 
-###### :timer_clock: November 19, 2020 - February 18, 2021
+###### November 19, 2020 - February 18, 2021
 
 <a href="https://www.kaggle.com/code/pplrayang/cassava-leaf-disease-train-rm-c3/notebook">
   <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
@@ -175,7 +175,7 @@
 <img src="https://img.shields.io/badge/rank-Top%2018%25-brightgreen">
 </div>
 
-###### :timer_clock: March 23, 2020 - June 16, 2020
+###### March 23, 2020 - June 16, 2020
 
 <a href="https://www.kaggle.com/code/pplrayang/kernel1d32063459/notebook">
   <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
@@ -191,7 +191,7 @@
 <img src="https://img.shields.io/badge/rank-Top%2044%25-brightgreen">
 </div>
 
-###### :timer_clock: June 28, 2019 - August 28, 2019
+###### June 28, 2019 - August 28, 2019
 
 <a href="https://www.kaggle.com/pplrayang/dcgan-large-batch/notebook">
   <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
@@ -205,14 +205,14 @@
 <img src="https://img.shields.io/badge/model-rule--based%20systems-blue">
 </div>
 
-###### :timer_clock: November, 2021
+###### November, 2021
 
 <a href="https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers">
   <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
 </a>
 <hr>
 
-## :computer: My software development portfolio
+# :computer: My software development portfolio
 
 #### PC Components Stock Viewer
 
@@ -227,7 +227,7 @@
 <img src="https://img.shields.io/badge/tools-Docker-ff69b4">
 </div>
 
-###### :timer_clock: December, 2022
+###### December, 2022
 
 <a href="https://github.com/sjyangkevin/pc-components-stock-monitor">
   <img src="https://img.shields.io/badge/GitHub%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="github repo"/>
