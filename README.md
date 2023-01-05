@@ -145,7 +145,7 @@
 ###### :timer_clock: November 22, 2021 - February 14, 2022
 
 <a href="https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef">
-  <img src="https://img.shields.io/badge/Project%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/>
+  <img src="https://img.shields.io/badge/Github%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/>
 </a>
 <hr>
 
