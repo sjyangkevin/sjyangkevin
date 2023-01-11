@@ -17,6 +17,9 @@
   <a href="https://www.youtube.com/channel/UCTeN-gQNzs4bhnzZ5CzSceA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
+  <a href="https://www.freelancer.com/u/sjkevinyang">
+    <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="YouTube Badge"/>
+  </a>
 </div>
 
 # :fire: My Status
@@ -49,6 +52,7 @@
                     <img alt="spark" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
                     <img alt="airflow" style="width:50px;height:50px;" src="https://uploads-ssl.webflow.com/5d1126db6761201d71e43753/5fac5437534f134d84dad340_pin_large.png" />
                     <img alt="databricks" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
+                    <img alt="bigquery" style="width:50px;height:50px;" src="https://static-00.iconduck.com/assets.00/bigquery-icon-512x512-fxxj0xd6.png" />
                </td>
           </tr>
           <tr>
