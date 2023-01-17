@@ -169,6 +169,8 @@
   <img style="width:360px;height:255px;background-color:white;" src="https://www.kaggleusercontent.com/kf/48038133/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..031dT9G9mq5j-_kIYgOC5A.hw90C9u5HWE_xhXe1JBelE0mjLiYrlb6qSmFb6KdQKd_hQHan8kHgKHmtjQrDXdqCqcTEl7-2_HqA-iXpxbxZ7nSTM7eohaWCINY0ioCKPp8v65OogHUcA78e01q2NjeocbjGOPnSZulohvzNt6jeqvFYjNBBZ3VbkLrAHJ1gqa0MLuh5jnjvgn34HeGyUE3_9Qid1F6V9eVJZk9z8Nj2dG8_uXqTSX8yIirQ5qWcTmHAYguxEOJ6SgPPWw3F0MZk_rlbMhlWjewniKxySsajRMNtv7kRe4TJlFODA1BHJ1Nwy9mP-7jt4B2VrC7zFxSbygl558O-jUdkSovC7owuX337EuWYHjv6E6NVERGIO_-2owpeiKcmobcvzY2tHJoo-9B5_KDAAc32WLoml5LhUYo_Xhey5DoQNjM3YWrqfX7x1HYjW4BIRi4QBWFZUd1-1AhM_3KkaaFfsQMT9D6qkjkN2aRU-BEY9OrJGxe_t4f00zLmeIbI5hEhDykyWh5kYpmldgEtI7Je7njUh_qcbaEwPlj7iEf_cMpDBeTp3SB4R850P2IwlQ8ieB1c43GjSCnmsQWqT2Pmk-yQQHTKnRa52KRU3IKMVg7hi-rOC2PdMqVMK1hRvlukYZJ8uAwn9_E7xAqD6nhY31mk5T2JiKyZwyb6TF_SK2poG7VV61C75yut-mEHFoQehG9vfz4.Ij1tdTQeA4_fcT5vFLWUgA/__results___files/__results___18_0.png" />
 </div>
 
+ℹ️ <span style="font-size:2px;">images retrieved from: <a href="https://www.kaggle.com/code/ihelon/cassava-leaf-disease-exploratory-data-analysis">Cassava Leaf Disease Classification - Exploratory Data Analysis</a></span>
+
 ###### November 19, 2020 - February 18, 2021
 
 <a href="https://www.kaggle.com/code/pplrayang/cassava-leaf-disease-train-rm-c3/notebook">
