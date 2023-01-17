@@ -146,6 +146,11 @@
 <img src="https://img.shields.io/badge/rank-Top%2016%25-brightgreen">
 </div>
 
+<div>
+  <img style="width:480px;height:270px;" src="https://www.kaggleusercontent.com/kf/85834183/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..tvfvya53_DcG-GjmkvPjDw.tTg1y547qm9w4dMq61LrGQp8WFHV59FjVt7csLl1DBLiIkMyTzJc8Fr9-4JyH9sBPb-OGEWApmDdq3frbzcy1V8t1uyTE23fSlq3A_aDdoIpRf8mo4953Jdb5IdGwvMd66pHIPU_GDo-dj1AoAO9eybUMZZF8XzbNcGmFNL7tThx6rAtzOLnP-OuDJZTXi79mkvFLEmKBcjceTWZbMaaCJdS13o2WRtvX-T1oHpGic8CouAMeupKVEg7cnzBS5PlSfUsMZzSdL7SoW-5ZbJw4E-u96e5IA3smVXC2k0GdcZObYzNFaf4yuRD7bEsbornxAQCng0_eLXMod2d-XGIIyubJ5f1UYSVIf8qg6Hu--k3Z06MX9R9DwZUVwfyU2XcVKSc8nmIadi04LX3aDUztmP9sqAQ86shF31f4sN9ogZZtbZCj4MctbyTW7V8el_xiszrJ-pwHfDzahd0OAS9PNjOSuMMzV20bv46SDYwADXUf1HhdXraA-HR5Yu1r1Y4jZPEyiuXHRM7xp9O6ardHjwYMlNw4tC5QR_wm1_u5HOw93uPzmI3L9S-zN5dzuz5rp7st9qvwTYbYLySeLXUGLShBzjv24p9oUd3_jh8Vw2Mrc7-hOe-C-yVQX1J0PFslp2LqpAsLSlBQ-h2zHaA3fHT_bc56Yovs0DjlfFZoN0-Sftp4kImcawX3e3AYPyD.21ibWQfgPd5jdO0dYhjfSg/__results___files/__results___24_2.png" />
+  <img style="width:480px;height:270px;" src="https://www.kaggleusercontent.com/kf/85834183/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..tvfvya53_DcG-GjmkvPjDw.tTg1y547qm9w4dMq61LrGQp8WFHV59FjVt7csLl1DBLiIkMyTzJc8Fr9-4JyH9sBPb-OGEWApmDdq3frbzcy1V8t1uyTE23fSlq3A_aDdoIpRf8mo4953Jdb5IdGwvMd66pHIPU_GDo-dj1AoAO9eybUMZZF8XzbNcGmFNL7tThx6rAtzOLnP-OuDJZTXi79mkvFLEmKBcjceTWZbMaaCJdS13o2WRtvX-T1oHpGic8CouAMeupKVEg7cnzBS5PlSfUsMZzSdL7SoW-5ZbJw4E-u96e5IA3smVXC2k0GdcZObYzNFaf4yuRD7bEsbornxAQCng0_eLXMod2d-XGIIyubJ5f1UYSVIf8qg6Hu--k3Z06MX9R9DwZUVwfyU2XcVKSc8nmIadi04LX3aDUztmP9sqAQ86shF31f4sN9ogZZtbZCj4MctbyTW7V8el_xiszrJ-pwHfDzahd0OAS9PNjOSuMMzV20bv46SDYwADXUf1HhdXraA-HR5Yu1r1Y4jZPEyiuXHRM7xp9O6ardHjwYMlNw4tC5QR_wm1_u5HOw93uPzmI3L9S-zN5dzuz5rp7st9qvwTYbYLySeLXUGLShBzjv24p9oUd3_jh8Vw2Mrc7-hOe-C-yVQX1J0PFslp2LqpAsLSlBQ-h2zHaA3fHT_bc56Yovs0DjlfFZoN0-Sftp4kImcawX3e3AYPyD.21ibWQfgPd5jdO0dYhjfSg/__results___files/__results___24_4.png" />
+</div>
+
 ###### November 22, 2021 - February 14, 2022
 
 <a href="https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef">
@@ -177,6 +182,12 @@
 <img src="https://img.shields.io/badge/model-BERT-blue">
 <img src="https://img.shields.io/badge/Jaccard%20score-0.7146-brightgreen">
 <img src="https://img.shields.io/badge/rank-Top%2018%25-brightgreen">
+</div>
+
+<div>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=4485F7&vCenter=true&multiline=true&width=320&height=110&lines=What+is+the+sentiment+of+the+following+text%3F;%22that%60s+great!!+weee!!+visitors!%22;The+sentiment+is+%22Positive%22.;Why%3F;Because+the+appearance+of+%22that%60s+great!!%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=F7830C&vCenter=true&multiline=true&width=320&height=110&lines=What+is+the+sentiment+of+the+following+text%3F;%22Stupid+storm.+No+river+for+us+tonight%22;The+sentiment+is+%22Negative%22.;Why%3F;Because+the+appearance+of+%22Stupid%22" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=F236F7&vCenter=true&multiline=true&width=350&height=110&lines=What+is+the+sentiment+of+the+following+text%3F;%22about+to+go+to+sleep%22;The+sentiment+is+%22Neutral%22.;Why%3F;Because+the+appearance+of+%22about+to+go+to+sleep%22" alt="Typing SVG" /></a>
 </div>
 
 ###### March 23, 2020 - June 16, 2020
