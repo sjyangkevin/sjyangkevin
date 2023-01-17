@@ -147,8 +147,8 @@
 </div>
 
 <div>
-  <img style="width:480px;height:270px;" src="https://www.kaggleusercontent.com/kf/85834183/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..tvfvya53_DcG-GjmkvPjDw.tTg1y547qm9w4dMq61LrGQp8WFHV59FjVt7csLl1DBLiIkMyTzJc8Fr9-4JyH9sBPb-OGEWApmDdq3frbzcy1V8t1uyTE23fSlq3A_aDdoIpRf8mo4953Jdb5IdGwvMd66pHIPU_GDo-dj1AoAO9eybUMZZF8XzbNcGmFNL7tThx6rAtzOLnP-OuDJZTXi79mkvFLEmKBcjceTWZbMaaCJdS13o2WRtvX-T1oHpGic8CouAMeupKVEg7cnzBS5PlSfUsMZzSdL7SoW-5ZbJw4E-u96e5IA3smVXC2k0GdcZObYzNFaf4yuRD7bEsbornxAQCng0_eLXMod2d-XGIIyubJ5f1UYSVIf8qg6Hu--k3Z06MX9R9DwZUVwfyU2XcVKSc8nmIadi04LX3aDUztmP9sqAQ86shF31f4sN9ogZZtbZCj4MctbyTW7V8el_xiszrJ-pwHfDzahd0OAS9PNjOSuMMzV20bv46SDYwADXUf1HhdXraA-HR5Yu1r1Y4jZPEyiuXHRM7xp9O6ardHjwYMlNw4tC5QR_wm1_u5HOw93uPzmI3L9S-zN5dzuz5rp7st9qvwTYbYLySeLXUGLShBzjv24p9oUd3_jh8Vw2Mrc7-hOe-C-yVQX1J0PFslp2LqpAsLSlBQ-h2zHaA3fHT_bc56Yovs0DjlfFZoN0-Sftp4kImcawX3e3AYPyD.21ibWQfgPd5jdO0dYhjfSg/__results___files/__results___24_2.png" />
-  <img style="width:480px;height:270px;" src="https://www.kaggleusercontent.com/kf/85834183/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..tvfvya53_DcG-GjmkvPjDw.tTg1y547qm9w4dMq61LrGQp8WFHV59FjVt7csLl1DBLiIkMyTzJc8Fr9-4JyH9sBPb-OGEWApmDdq3frbzcy1V8t1uyTE23fSlq3A_aDdoIpRf8mo4953Jdb5IdGwvMd66pHIPU_GDo-dj1AoAO9eybUMZZF8XzbNcGmFNL7tThx6rAtzOLnP-OuDJZTXi79mkvFLEmKBcjceTWZbMaaCJdS13o2WRtvX-T1oHpGic8CouAMeupKVEg7cnzBS5PlSfUsMZzSdL7SoW-5ZbJw4E-u96e5IA3smVXC2k0GdcZObYzNFaf4yuRD7bEsbornxAQCng0_eLXMod2d-XGIIyubJ5f1UYSVIf8qg6Hu--k3Z06MX9R9DwZUVwfyU2XcVKSc8nmIadi04LX3aDUztmP9sqAQ86shF31f4sN9ogZZtbZCj4MctbyTW7V8el_xiszrJ-pwHfDzahd0OAS9PNjOSuMMzV20bv46SDYwADXUf1HhdXraA-HR5Yu1r1Y4jZPEyiuXHRM7xp9O6ardHjwYMlNw4tC5QR_wm1_u5HOw93uPzmI3L9S-zN5dzuz5rp7st9qvwTYbYLySeLXUGLShBzjv24p9oUd3_jh8Vw2Mrc7-hOe-C-yVQX1J0PFslp2LqpAsLSlBQ-h2zHaA3fHT_bc56Yovs0DjlfFZoN0-Sftp4kImcawX3e3AYPyD.21ibWQfgPd5jdO0dYhjfSg/__results___files/__results___24_4.png" />
+  <img style="width:360px;height:255px;" src="https://www.kaggleusercontent.com/kf/85834183/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..tvfvya53_DcG-GjmkvPjDw.tTg1y547qm9w4dMq61LrGQp8WFHV59FjVt7csLl1DBLiIkMyTzJc8Fr9-4JyH9sBPb-OGEWApmDdq3frbzcy1V8t1uyTE23fSlq3A_aDdoIpRf8mo4953Jdb5IdGwvMd66pHIPU_GDo-dj1AoAO9eybUMZZF8XzbNcGmFNL7tThx6rAtzOLnP-OuDJZTXi79mkvFLEmKBcjceTWZbMaaCJdS13o2WRtvX-T1oHpGic8CouAMeupKVEg7cnzBS5PlSfUsMZzSdL7SoW-5ZbJw4E-u96e5IA3smVXC2k0GdcZObYzNFaf4yuRD7bEsbornxAQCng0_eLXMod2d-XGIIyubJ5f1UYSVIf8qg6Hu--k3Z06MX9R9DwZUVwfyU2XcVKSc8nmIadi04LX3aDUztmP9sqAQ86shF31f4sN9ogZZtbZCj4MctbyTW7V8el_xiszrJ-pwHfDzahd0OAS9PNjOSuMMzV20bv46SDYwADXUf1HhdXraA-HR5Yu1r1Y4jZPEyiuXHRM7xp9O6ardHjwYMlNw4tC5QR_wm1_u5HOw93uPzmI3L9S-zN5dzuz5rp7st9qvwTYbYLySeLXUGLShBzjv24p9oUd3_jh8Vw2Mrc7-hOe-C-yVQX1J0PFslp2LqpAsLSlBQ-h2zHaA3fHT_bc56Yovs0DjlfFZoN0-Sftp4kImcawX3e3AYPyD.21ibWQfgPd5jdO0dYhjfSg/__results___files/__results___24_2.png" />
+  <img style="width:360px;height:255px;" src="https://www.kaggleusercontent.com/kf/85834183/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..tvfvya53_DcG-GjmkvPjDw.tTg1y547qm9w4dMq61LrGQp8WFHV59FjVt7csLl1DBLiIkMyTzJc8Fr9-4JyH9sBPb-OGEWApmDdq3frbzcy1V8t1uyTE23fSlq3A_aDdoIpRf8mo4953Jdb5IdGwvMd66pHIPU_GDo-dj1AoAO9eybUMZZF8XzbNcGmFNL7tThx6rAtzOLnP-OuDJZTXi79mkvFLEmKBcjceTWZbMaaCJdS13o2WRtvX-T1oHpGic8CouAMeupKVEg7cnzBS5PlSfUsMZzSdL7SoW-5ZbJw4E-u96e5IA3smVXC2k0GdcZObYzNFaf4yuRD7bEsbornxAQCng0_eLXMod2d-XGIIyubJ5f1UYSVIf8qg6Hu--k3Z06MX9R9DwZUVwfyU2XcVKSc8nmIadi04LX3aDUztmP9sqAQ86shF31f4sN9ogZZtbZCj4MctbyTW7V8el_xiszrJ-pwHfDzahd0OAS9PNjOSuMMzV20bv46SDYwADXUf1HhdXraA-HR5Yu1r1Y4jZPEyiuXHRM7xp9O6ardHjwYMlNw4tC5QR_wm1_u5HOw93uPzmI3L9S-zN5dzuz5rp7st9qvwTYbYLySeLXUGLShBzjv24p9oUd3_jh8Vw2Mrc7-hOe-C-yVQX1J0PFslp2LqpAsLSlBQ-h2zHaA3fHT_bc56Yovs0DjlfFZoN0-Sftp4kImcawX3e3AYPyD.21ibWQfgPd5jdO0dYhjfSg/__results___files/__results___24_4.png" />
 </div>
 
 ###### November 22, 2021 - February 14, 2022
@@ -165,6 +165,10 @@
 <img src="https://img.shields.io/badge/model-EfficientNet-blue">
 <img src="https://img.shields.io/badge/accuracy-0.8972-brightgreen">
 <img src="https://img.shields.io/badge/rank-Top%2014%25-brightgreen">
+</div>
+
+<div>
+  <img style="width:360px;height:255px;background-color:white;" src="https://www.kaggleusercontent.com/kf/48038133/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..031dT9G9mq5j-_kIYgOC5A.hw90C9u5HWE_xhXe1JBelE0mjLiYrlb6qSmFb6KdQKd_hQHan8kHgKHmtjQrDXdqCqcTEl7-2_HqA-iXpxbxZ7nSTM7eohaWCINY0ioCKPp8v65OogHUcA78e01q2NjeocbjGOPnSZulohvzNt6jeqvFYjNBBZ3VbkLrAHJ1gqa0MLuh5jnjvgn34HeGyUE3_9Qid1F6V9eVJZk9z8Nj2dG8_uXqTSX8yIirQ5qWcTmHAYguxEOJ6SgPPWw3F0MZk_rlbMhlWjewniKxySsajRMNtv7kRe4TJlFODA1BHJ1Nwy9mP-7jt4B2VrC7zFxSbygl558O-jUdkSovC7owuX337EuWYHjv6E6NVERGIO_-2owpeiKcmobcvzY2tHJoo-9B5_KDAAc32WLoml5LhUYo_Xhey5DoQNjM3YWrqfX7x1HYjW4BIRi4QBWFZUd1-1AhM_3KkaaFfsQMT9D6qkjkN2aRU-BEY9OrJGxe_t4f00zLmeIbI5hEhDykyWh5kYpmldgEtI7Je7njUh_qcbaEwPlj7iEf_cMpDBeTp3SB4R850P2IwlQ8ieB1c43GjSCnmsQWqT2Pmk-yQQHTKnRa52KRU3IKMVg7hi-rOC2PdMqVMK1hRvlukYZJ8uAwn9_E7xAqD6nhY31mk5T2JiKyZwyb6TF_SK2poG7VV61C75yut-mEHFoQehG9vfz4.Ij1tdTQeA4_fcT5vFLWUgA/__results___files/__results___18_0.png" />
 </div>
 
 ###### November 19, 2020 - February 18, 2021
@@ -220,6 +224,18 @@
 <img src="https://img.shields.io/badge/model-rule--based%20systems-blue">
 </div>
 
+<div>
+  <img style="width:320px;height:320px;" src="https://www.kaggleusercontent.com/kf/80494741/eyJhbGciOiJkaXIiLCJlbmMiOiJBMTI4Q0JDLUhTMjU2In0..EgSE9tlzJdHrMuwhaAu-QA.I7PVKZKWqqOvawYbW0JTJ0od1kHHpwBpbeJEhqbdm3UDE0RkgdTleERRksQf_w_PL8K_b2LceqfxLInRPm_yw-b7i5tGNTcgxGErItcD3sCWGqVuvLZ-mdduCqEkwGkHXdmd5aYpe2BUKYmc7IvRIAa3OaJXSBOsfc0X4sT-IIbeRWkJPDuOUS0nQDSZfg-eHMg0tn9Wham5bgxWnYKEyN0iIkRPNCRq-1DYxbgtdmHNkGD12GlpdgO6k0TNnTuM_IHeR4ScdYNx4sr2I1akmZVCwyLw2pHdBp6qr4WM9DV7mrQ8wmGoagm0p3zVPltEND0cz5kEe8CkVsjIy-0DCkXg1f_iwmUgQNKCmH38g0u0ToSuR1d2Mpnm1d0q4XKr9PR6k9lqLsUDMfigF44Y_wdZ98IS5yww5S2MreJEN9USkav1tWNpj9SfoPPlkcmKqCKFcamIRBCEoBWBcBDO7WRRgwaZln6gKTjKqkTxKJi-bdw-apmg9-vokL5mmEoOx48WuPVC8-A7Jkt8ffyc_S5QOxqvhpbWtm4R-LHQHi04OSuOKnaZmagc04CtdNmd-W7BzJ8rMDMWBsZXHls_wb-H-tNz_XUJikhiShpuzIHHvBYZ9PGVY3g3sRP1Xadckacz6x0dAY6pZRdsQ1JZhqpBBgspmeQS50YM3bDEhzjGophbVX8bnyapF95RLhPS81jL6giuJ2jTQHYjYiTCrA.oqeeNHbfneF7uTLUzvr9wQ/__results___files/__results___75_0.png" /> 
+</div>
+
+|id  |antecedents                                      |consequents         |confidence|
+|----|-------------------------------------------------|--------------------|----------|
+|3502|(IncomeGroup_High Income, HasChildren_No, Fish...|(Meat_Biggest Buyer)|0.903084|
+|2538|(IncomeGroup_High Income, HasChildren_No, Clus...|(Meat_Biggest Buyer)|0.885167|
+|3474|(Wines_Biggest Buyer, IncomeGroup_High Income,...|(Meat_Biggest Buyer)|0.878261|
+|3058|(IncomeGroup_High Income, Education_Graduation...|(Meat_Biggest Buyer)|0.873171|
+|3488|(IncomeGroup_High Income, HasChildren_No, Frui...|(Meat_Biggest Buyer)|0.871429|
+
 ###### November, 2021
 
 <a href="https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers">
@@ -240,6 +256,10 @@
 <img src="https://img.shields.io/badge/frameworks-Scrapy-brightgreen">
 <img src="https://img.shields.io/badge/frameworks-Flask-brightgreen">
 <img src="https://img.shields.io/badge/tools-Docker-ff69b4">
+</div>
+
+<div>
+  <img style="width:460px;height:360px;" src="https://github.com/sjyangkevin/pc-components-stock-monitor/raw/main/images/main_page.png" />
 </div>
 
 ###### December, 2022
