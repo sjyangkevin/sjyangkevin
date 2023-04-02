@@ -208,7 +208,7 @@
 </div>
 
 <div>
-  <img style="width:320px;height:320px;background-color:white;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/dog_1.png" />
+  <img style="width:320px;height:320px;background-color:white;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/generative_dog_1.png" />
 </div>
 
 ###### June 28, 2019 - August 28, 2019
