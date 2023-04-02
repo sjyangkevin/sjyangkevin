@@ -166,7 +166,7 @@
 </div>
 
 <div>
-  <img style="width:360px;height:255px;background-color:white;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/leaf_1.png" />
+  <img style="width:320px;height:320px;background-color:white;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/leaf_1.png" />
 </div>
 
 ℹ️ <span style="font-size:2px;">images retrieved from: <a href="https://www.kaggle.com/code/ihelon/cassava-leaf-disease-exploratory-data-analysis">Cassava Leaf Disease Classification - Exploratory Data Analysis</a></span>
@@ -205,6 +205,10 @@
 <img src="https://img.shields.io/badge/model-DCGAN-blue">
 <img src="https://img.shields.io/badge/MiFID-166.9341-brightgreen">
 <img src="https://img.shields.io/badge/rank-Top%2044%25-brightgreen">
+</div>
+
+<div>
+  <img style="width:320px;height:320px;background-color:white;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/dog_1.png" />
 </div>
 
 ###### June 28, 2019 - August 28, 2019
