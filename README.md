@@ -21,6 +21,9 @@
   <a href="https://medium.com/@kevinsjy997">
     <img src="https://img.shields.io/badge/Medium-f2f3f5?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
   </a>
+  <a href="https://hackernoon.com/u/keviny">
+    <img src="https://img.shields.io/badge/Hackernoon-black?style=for-the-badge&logo=hackernoon&logoColor=green" alt="Medium Badge"/>
+  </a>
 </div>
 
 # :fire: My Status
