@@ -84,9 +84,10 @@
                <td>
                     <img alt="pytorch" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
                     <img alt="tensorflow" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+                    <img alt="LangChain" style="width:50px;height:50px;" src="https://www.mlq.ai/content/images/2023/06/Screenshot-2023-06-15-at-8.15.36-PM.png" />
                     <img alt="mlflow" style="width:50px;height:50px;" src="https://archive.org/download/github.com-mlflow-mlflow_-_2021-04-30_16-23-15/cover.jpg" />
                     <img alt="metaflow" style="width:100px;height:50px;" src="https://user-images.githubusercontent.com/763451/89453116-96a57e00-d713-11ea-9fa6-82b29d4d6eff.png" />
-                    <img alt="opencv" style="width:50px;height:50px;" src="https://techcrunch.com/wp-content/uploads/2021/05/VertexAI-512-color.png" />
+                    <img alt="Vertex AI" style="width:50px;height:50px;" src="https://techcrunch.com/wp-content/uploads/2021/05/VertexAI-512-color.png" />
                     <img alt="opencv" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
                </td>
           </tr>
@@ -119,6 +120,8 @@
                     <img alt="redis" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
                     <img alt="MongoDB" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
                     <img alt="sqlite" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+                    <img alt="Chroma" style="width:50px;height:50px;" src="https://docs.trychroma.com/img/chroma.png" />
+                    <img alt="Deep Lake" style="width:50px;height:50px;" src="https://img.stackshare.io/service/47898/default_0dae693823346339b6d7cef3039363eaf73c76b9.png" />
                </td>
           </tr>
           <tr>
