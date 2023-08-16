@@ -122,9 +122,10 @@
                </td>
           </tr>
           <tr>
-               <td>Web Crawling</td>
+               <td>Web Scraping</td>
                <td>
                     <img alt="scrapy" style="width:50px;height:50px;" src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" />
+                    <img alt="Twitter API" style="width:50px;height:50px;" src="https://brandlogos.net/wp-content/uploads/2023/07/x__twitter-logo_brandlogos.net_fxbde-300x300.png" />
                </td>
           </tr>
           <tr>
