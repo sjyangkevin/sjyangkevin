@@ -74,9 +74,10 @@
                     <img alt="Docker" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
                     <img alt="Kubernetes" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
                     <img alt="terraform" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-                    <img alt="Jenkins" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+                    <img alt="GitHub Actions" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" />
                     <img alt="Azure DevOps" style="width:50px;height:50px;" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" />
                     <img alt="Google Cloud Build" style="width:50px;height:50px;" src="https://static-00.iconduck.com/assets.00/cloud-build-icon-452x512-zthklwch.png">
+                    <img alt="Jenkins" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
                </td>
           </tr>
           <tr>
@@ -138,6 +139,7 @@
                     <img alt="pandas" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
                     <img alt="Jupyter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
                     <img alt="anaconda" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
+                    <img alt="poetry" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/48722593?s=200&v=4" />
                     <img alt="pytest" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
                     <img alt="qt" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
                     <img alt="CMake" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
