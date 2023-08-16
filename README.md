@@ -122,7 +122,7 @@
                     <img alt="redis" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
                     <img alt="MongoDB" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
                     <img alt="sqlite" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-                    <img alt="Chroma" style="width:50px;height:50px;" src="https://docs.trychroma.com/img/chroma.png" />
+                    <img alt="Chroma" style="width:60px;height:40px;" src="https://docs.trychroma.com/img/chroma.png" />
                     <img alt="Deep Lake" style="width:50px;height:50px;" src="https://img.stackshare.io/service/47898/default_0dae693823346339b6d7cef3039363eaf73c76b9.png" />
                </td>
           </tr>
