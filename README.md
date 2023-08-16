@@ -96,6 +96,7 @@
                <td>Web Development</td>
                <td>
                     <img alt="Flask" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
+                    <img alt="Streamlit" style="width:80px;height:50px;" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
                     <img alt="Node.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
                     <img alt="Bootstrap" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
                     <img alt="react" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
