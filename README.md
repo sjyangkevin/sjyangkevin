@@ -6,23 +6,14 @@
   <a href="https://www.linkedin.com/in/kevinshijinyang/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/sjyangkevin">
-    <img src="https://img.shields.io/badge/GitHub-red?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/sjyangkevin">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  <a href="https://hackernoon.com/u/keviny">
+    <img src="https://img.shields.io/badge/Hackernoon-black?style=for-the-badge&logo=hackernoon&logoColor=green" alt="Medium Badge"/>
   </a>
   <a href="https://www.youtube.com/channel/UCTeN-gQNzs4bhnzZ5CzSceA">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
   </a>
-  <a href="https://www.freelancer.com/u/sjkevinyang">
-    <img src="https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white" alt="Freelancer Badge"/>
-  </a>
-  <a href="https://medium.com/@kevinsjy997">
-    <img src="https://img.shields.io/badge/Medium-f2f3f5?style=for-the-badge&logo=medium&logoColor=black" alt="Medium Badge"/>
-  </a>
-  <a href="https://hackernoon.com/u/keviny">
-    <img src="https://img.shields.io/badge/Hackernoon-black?style=for-the-badge&logo=hackernoon&logoColor=green" alt="Medium Badge"/>
+  <a href="https://www.kaggle.com/sjyangkevin">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
 
