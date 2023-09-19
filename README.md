@@ -24,11 +24,10 @@
                <td>Programming Languages</td>
                <td>
                     <img alt="python" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-                    <img alt="C" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+                    <img alt="TypeScript" style="width:50px;height:50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
                     <img alt="C++" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-                    <img alt="JavaScript" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-                    <img alt="r" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
                     <img alt="Golang" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+                    <img alt="r" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
                     <img alt="Dart" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
                     <img alt="Bash" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
                </td>
@@ -70,9 +69,9 @@
                <td>
                     <img alt="pytorch" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
                     <img alt="tensorflow" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-                    <img alt="LangChain" style="width:50px;height:50px;" src="https://www.mlq.ai/content/images/2023/06/Screenshot-2023-06-15-at-8.15.36-PM.png" />
-                    <img alt="mlflow" style="width:50px;height:50px;" src="https://archive.org/download/github.com-mlflow-mlflow_-_2021-04-30_16-23-15/cover.jpg" />
-                    <img alt="metaflow" style="width:100px;height:50px;" src="https://user-images.githubusercontent.com/763451/89453116-96a57e00-d713-11ea-9fa6-82b29d4d6eff.png" />
+                    <img alt="LangChain" style="width:60px;height:50px;" src="https://www.mlq.ai/content/images/2023/06/Screenshot-2023-06-15-at-8.15.36-PM.png" />
+                    <img alt="MLflow" style="width:60px;height:50px;" src="https://archive.org/download/github.com-mlflow-mlflow_-_2021-04-30_16-23-15/cover.jpg" />
+                    <img alt="MetaFlow" style="width:100px;height:50px;" src="https://user-images.githubusercontent.com/763451/89453116-96a57e00-d713-11ea-9fa6-82b29d4d6eff.png" />
                     <img alt="Vertex AI" style="width:50px;height:50px;" src="https://techcrunch.com/wp-content/uploads/2021/05/VertexAI-512-color.png" />
                     <img alt="opencv" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
                </td>
@@ -101,9 +100,9 @@
                <td>
                     <img alt="postgres" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
                     <img alt="MySQL" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-                    <img alt="redis" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
+                    <img alt="Redis" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
                     <img alt="MongoDB" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-                    <img alt="sqlite" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
+                    <img alt="Sqlite" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
                     <img alt="Chroma" style="width:60px;height:40px;" src="https://docs.trychroma.com/img/chroma.png" />
                     <img alt="Deep Lake" style="width:50px;height:50px;" src="https://img.stackshare.io/service/47898/default_0dae693823346339b6d7cef3039363eaf73c76b9.png" />
                </td>
@@ -111,22 +110,16 @@
           <tr>
                <td>Web Scraping</td>
                <td>
-                    <img alt="scrapy" style="width:50px;height:50px;" src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" />
+                    <img alt="Scrapy" style="width:50px;height:50px;" src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" />
                     <img alt="Twitter API" style="width:50px;height:50px;" src="https://brandlogos.net/wp-content/uploads/2023/07/x__twitter-logo_brandlogos.net_fxbde-300x300.png" />
                </td>
           </tr>
           <tr>
                <td>Others</td>
                <td>
-                    <img alt="numpy" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-                    <img alt="pandas" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
-                    <img alt="Jupyter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-                    <img alt="anaconda" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />
-                    <img alt="poetry" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/48722593?s=200&v=4" />
-                    <img alt="pytest" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
-                    <img alt="qt" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
+                    <img alt="PyTest" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
+                    <img alt="Qt" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
                     <img alt="CMake" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
-                    <img alt="npm" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
                     <img alt="GNU Make" style="width:50px;height:50px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png" />
                </td>
           </tr>
