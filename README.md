@@ -80,6 +80,7 @@
           <tr>
                <td>Web Development</td>
                <td>
+                    <img alt="Next.js" style="width:80px;height:50px;" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
                     <img alt="Flask" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
                     <img alt="Streamlit" style="width:80px;height:50px;" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
                     <img alt="Node.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
