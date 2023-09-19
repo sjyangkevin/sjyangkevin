@@ -83,9 +83,9 @@
                     <img alt="Next.js" style="width:80px;height:50px;" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
                     <img alt="React.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
                     <img alt="Flask" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-                    <img alt="Node.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+                    <img alt="Node.js" style="width:70px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
                     <img alt="Bootstrap" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-                    <img alt="Nginx" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
+                    <img alt="Nginx" style="width:70px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
                     <img alt="Streamlit" style="width:80px;height:50px;" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
                </td>
           </tr>
