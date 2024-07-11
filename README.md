@@ -3,6 +3,7 @@
   <a href="https://www.linkedin.com/in/kevinshijinyang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@kevinsjy997"><img src="https://img.shields.io/badge/Medium-2d2d2d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
   <a href="https://www.youtube.com/@kevinkevinya"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
+  <a href="https://www.kaggle.com/sjyangkevin"><img src="https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=36&duration=3600&pause=720&color=FF8800&background=FFFFFF00&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
