@@ -1,279 +1,175 @@
-<img style="width:90px;height=160px;" align="left" src="https://media.giphy.com/media/J1Qp5WXgzdG6eZrxHn/giphy.gif" >
+# Hi there, I'm Shijin (Kevin) Yang 👋
+<p>
+  <a href="https://www.linkedin.com/in/kevinshijinyang/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://medium.com/@kevinsjy997" target="_blank"><img src="https://img.shields.io/badge/Medium-2d2d2d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.youtube.com/@kevinkevinya" target="_blank"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
+</p>
 
-<a align="left" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=8619FF&vCenter=true&multiline=true&height=110&lines=Hi+everyone%2C+my+name+is+Shijin+(Kevin);I+am+currently+working+as+a+Data+Engineer;with+high+interests+in+AI,+ML,+and+MLOps" alt="Typing SVG" /></a>
+Welcome to my GitHub profile! I'm a data engineer with a passion for big data and machine learning.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kevinshijinyang/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://hackernoon.com/u/keviny">
-    <img src="https://img.shields.io/badge/Hackernoon-black?style=for-the-badge&logo=hackernoon&logoColor=green" alt="Medium Badge"/>
-  </a>
-  <a href="https://www.youtube.com/channel/UCTeN-gQNzs4bhnzZ5CzSceA">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/sjyangkevin">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a>
-</div>
+## 🔧 Technologies & Tools
 
-# :hammer_and_wrench: Tools I have used and learned
-<div class="row">
-     <table>
-          <tr>
-               <td>Programming Languages</td>
-               <td>
-                    <img alt="python" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-                    <img alt="TypeScript" style="width:50px;height:50px;" src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" />
-                    <img alt="C++" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-                    <img alt="Golang" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-                    <img alt="r" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
-                    <img alt="Dart" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-                    <img alt="Bash" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-               </td>
-          </tr>
-          <tr>
-               <td>Big Data</td>
-               <td>
-                    <img alt="hadoop" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_pig/apache_pig-icon.svg" />
-                    <img alt="hive" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" />
-                    <img alt="spark" style="width:50px;height:50px;" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg" />
-                    <img alt="airflow" style="width:50px;height:50px;" src="https://uploads-ssl.webflow.com/5d1126db6761201d71e43753/5fac5437534f134d84dad340_pin_large.png" />
-                    <img alt="databricks" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/4998052?s=280&v=4" />
-                    <img alt="bigquery" style="width:50px;height:50px;" src="https://static-00.iconduck.com/assets.00/bigquery-icon-512x512-fxxj0xd6.png" />
-               </td>
-          </tr>
-          <tr>
-               <td>Cloud Services</td>
-               <td>
-                    <img alt="Azure" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
-                    <img alt="GCP" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" />
-                    <img alt="aws" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-               </td>
-          </tr>
-          <tr>
-               <td>DevOps</td>
-               <td>
-                    <img alt="Git" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-                    <img alt="Docker" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-                    <img alt="Kubernetes" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
-                    <img alt="terraform" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" />
-                    <img alt="GitHub Actions" style="width:50px;height:50px;" src="https://avatars.githubusercontent.com/u/44036562?s=280&v=4" />
-                    <img alt="Azure DevOps" style="width:50px;height:50px;" src="https://cdn.iconscout.com/icon/free/png-256/free-azure-devops-3628645-3029870.png?f=webp" />
-                    <img alt="Google Cloud Build" style="width:50px;height:50px;" src="https://static-00.iconduck.com/assets.00/cloud-build-icon-452x512-zthklwch.png">
-                    <img alt="Jenkins" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
-               </td>
-          </tr>
-          <tr>
-               <td>Machine Learning</td>
-               <td>
-                    <img alt="pytorch" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
-                    <img alt="tensorflow" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
-                    <img alt="LangChain" style="width:60px;height:50px;" src="https://www.mlq.ai/content/images/2023/06/Screenshot-2023-06-15-at-8.15.36-PM.png" />
-                    <img alt="MLflow" style="width:60px;height:50px;" src="https://archive.org/download/github.com-mlflow-mlflow_-_2021-04-30_16-23-15/cover.jpg" />
-                    <img alt="MetaFlow" style="width:100px;height:50px;" src="https://user-images.githubusercontent.com/763451/89453116-96a57e00-d713-11ea-9fa6-82b29d4d6eff.png" />
-                    <img alt="Vertex AI" style="width:50px;height:50px;" src="https://techcrunch.com/wp-content/uploads/2021/05/VertexAI-512-color.png" />
-                    <img alt="opencv" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
-               </td>
-          </tr>
-          <tr>
-               <td>Web Development</td>
-               <td>
-                    <img alt="Next.js" style="width:80px;height:50px;" src="https://seeklogo.com/images/N/next-js-logo-7929BCD36F-seeklogo.com.png" />
-                    <img alt="React.js" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-                    <img alt="Flask" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" />
-                    <img alt="Node.js" style="width:70px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-                    <img alt="Bootstrap" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-                    <img alt="Nginx" style="width:70px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
-                    <img alt="Streamlit" style="width:80px;height:50px;" src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" />
-               </td>
-          </tr>
-          <tr>
-               <td>Mobile Development</td>
-               <td>
-                    <img alt="Flutter" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-                    <img alt="Android Studio" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-               </td>
-          </tr>
-          <tr>
-               <td>Databases</td>
-               <td>
-                    <img alt="postgres" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-                    <img alt="MySQL" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-                    <img alt="Redis" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-                    <img alt="MongoDB" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-                    <img alt="Sqlite" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" />
-                    <img alt="Chroma" style="width:60px;height:40px;" src="https://docs.trychroma.com/img/chroma.png" />
-                    <img alt="Deep Lake" style="width:50px;height:50px;" src="https://img.stackshare.io/service/47898/default_0dae693823346339b6d7cef3039363eaf73c76b9.png" />
-               </td>
-          </tr>
-          <tr>
-               <td>Web Scraping</td>
-               <td>
-                    <img alt="Scrapy" style="width:50px;height:50px;" src="https://cdn2.hubspot.net/hubfs/4367560/Imported_Blog_Media/scrapy.png" />
-                    <img alt="Twitter API" style="width:50px;height:50px;" src="https://brandlogos.net/wp-content/uploads/2023/07/x__twitter-logo_brandlogos.net_fxbde-300x300.png" />
-               </td>
-          </tr>
-          <tr>
-               <td>Others</td>
-               <td>
-                    <img alt="PyTest" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytest/pytest-original-wordmark.svg" />
-                    <img alt="Qt" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" />
-                    <img alt="CMake" style="width:50px;height:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" />
-                    <img alt="GNU Make" style="width:50px;height:50px;" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/22/Heckert_GNU_white.svg/1200px-Heckert_GNU_white.svg.png" />
-               </td>
-          </tr>
-     </table>
-</div>
+### Programming Languages
 
-# :robot: My machine learning portfolio
+<p>
+  <a href="https://www.python.org/" target="_blank"><img src="assets/icons/python.svg" alt="Python" class="tech-icon" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="assets/icons/javascript.svg" alt="JavaScript" class="tech-icon" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="assets/icons/typescript-icon.svg" alt="TypeScript" class="tech-icon" /></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank"><img src="assets/icons/c-plusplus.svg" alt="C++" class="tech-icon" /></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="assets/icons/c.svg" alt="C programming language" class="tech-icon" /></a>
+  <a href="https://dev.java/" target="_blank"><img src="assets/icons/java.svg" alt="Java" class="tech-icon" /></a>
+</p>
 
-#### TensorFlow - Help Protect the Great Barrier Reef 
+### Big Data, Machine Learning
 
-<div>
-<img src="https://img.shields.io/badge/task-computer%20vision-blueviolet">
-<img src="https://img.shields.io/badge/model-YoloV5-blue">
-<img src="https://img.shields.io/badge/F2%20score-0.644-brightgreen">
-<img src="https://img.shields.io/badge/rank-Top%2016%25-brightgreen">
-</div>
+<p>
+  <a href="https://spark.apache.org/" target="_blank"><img src="assets/icons/apache-spark.svg" alt="Apache Spark" class="invertible-icon" /></a>
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="assets/icons/hadoop.svg" alt="Apache Hadoop" class="tech-icon" /></a>
+  <a href="https://airflow.apache.org/" target="_blank"><img src="assets/icons/airflow-icon.svg" alt="Apache Airflow" class="tech-icon" /></a>
+  <a href="https://pytorch.org/" target="_blank"><img src="assets/icons/pytorch-icon.svg" alt="PyTorch" class="tech-icon" /></a>
+  <a href="https://www.tensorflow.org/" target="_blank"><img src="assets/icons/tensorflow.svg" alt="TensorFlow" class="tech-icon" /></a>
+</p>
 
-<div>
-  <img style="width:360px;height:255px;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/cots_1.png" />
-  <img style="width:360px;height:255px;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/cots_2.png" />
-</div>
+### Web, Mobile Development
 
-###### November 22, 2021 - February 14, 2022
+<p>
+  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="assets/icons/fastapi-icon.svg" alt="FastAPI" class="tech-icon" /></a>
+  <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"><img src="assets/icons/flask.svg" alt="Flask" class="invertible-icon" /></a>
+  <a href="https://react.dev/" target="_blank"><img src="assets/icons/react.svg" alt="React" class="tech-icon" /></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="assets/icons/tailwindcss-icon.svg" alt="tailwindcss" class="tech-icon" /></a>
+  <a href="https://expo.dev/" target="_blank"><img src="assets/icons/expo-icon.svg" alt="Expo" class="invertible-icon" /></a>
+  <a href="https://supabase.com/" target="_blank"><img src="assets/icons/supabase-icon.svg" alt="Supabase" class="tech-icon" /></a>
+  <a href="https://firebase.google.com/" target="_blank"><img src="assets/icons/firebase.svg" alt="Firebase" class="tech-icon" /></a>
+</p>
 
-<a href="https://github.com/sjyangkevin/tf-help-protect-the-great-barrier-reef">
-  <img src="https://img.shields.io/badge/Github%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="Project Badge"/>
-</a>
-<hr>
+### Cloud Services, DevOps
 
-#### Cassava Leaf Disease Classification
+<p>
+  <a href="https://cloud.google.com/" target="_blank"><img src="assets/icons/google-cloud.svg" alt="Google Cloud Platform" class="tech-icon" /></a>
+  <a href="https://azure.microsoft.com/" target="_blank"><img src="assets/icons/microsoft-azure.svg" alt="Azure" class="tech-icon" /></a>
+  <a href="https://aws.amazon.com/" target="_blank"><img src="assets/icons/aws.svg" alt="Amazon Web Services" class="invertible-icon" /></a>
+  <a href="https://www.docker.com/" target="_blank"><img src="assets/icons/docker-icon.svg" alt="Docker" class="tech-icon" /></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="assets/icons/terraform-icon.svg" alt="Terraform" class="tech-icon" /></a>
+  <a href="https://www.jenkins.io/" target="_blank"><img src="assets/icons/jenkins.svg" alt="Jenkins" class="tech-icon" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="assets/icons/github-actions.svg" alt="GitHub Actions" class="tech-icon" /></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="assets/icons/git-icon.svg" alt="Git" class="tech-icon" /></a>
+</p>
 
-<div>
-<img src="https://img.shields.io/badge/task-computer%20vision-blueviolet">
-<img src="https://img.shields.io/badge/model-EfficientNet-blue">
-<img src="https://img.shields.io/badge/accuracy-0.8972-brightgreen">
-<img src="https://img.shields.io/badge/rank-Top%2014%25-brightgreen">
-</div>
+## 🌱 Currently Learning
 
-<div>
-  <img style="width:320px;height:320px;background-color:white;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/leaf_1.png" />
-</div>
+<ul class="learning-list">
+  <li class="learning-item">✨ Large language models (LLMs) and Generative AI</li>
+  <li class="learning-item">📱 Mobile app development using React Native and Expo framework</li>
+  <li class="learning-item">🎓 Master study in Computer Science with a concentration in Computing Systems</li>
+</ul>
 
-ℹ️ <span style="font-size:2px;">images retrieved from: <a href="https://www.kaggle.com/code/ihelon/cassava-leaf-disease-exploratory-data-analysis">Cassava Leaf Disease Classification - Exploratory Data Analysis</a></span>
+## 📚 My Recent Blog Posts
 
-###### November 19, 2020 - February 18, 2021
+<ul class="blog-posts">
+  <li>
+    <a href="https://medium.com/@kevinsjy997/configure-docker-to-use-local-gpu-for-training-ml-models-70980168ec9b" target="_blank">
+      <h3>Configure Docker to Use Local GPU for Training ML Models</h3>
+    </a>
+    <p>How to configure your local machine to run a Docker container with access to your GPU devices.</p>
+    <p class="date">Published on July 19, 2023</p>
+  </li>
+  <li>
+    <a href="https://medium.com/@kevinsjy997/from-git-flow-to-ci-cd-a-practical-guide-to-implement-git-workflow-d2c922f31fdc" target="_blank">
+      <h3>From Git Flow to CI/CD: A Practical Guide to Implement Git Workflow</h3>
+    </a>
+    <p>Understand the evolution of Git branching models and best practices.</p>
+    <p class="date">Published on July 7, 2023</p>
+  </li>
+  <li>
+    <a href="https://medium.com/gopenai/fundamental-prompt-engineering-guide-with-vertex-ai-palm-api-c9f307413d85" target="_blank">
+      <h3>Fundamental Prompt Engineering Guide with Vertex AI PaLM API</h3>
+    </a>
+    <p>Learn basic prompt engineering and using Google Vertex AI Palm 2 API.</p>
+    <p class="date">Published on May 30, 2023</p>
+  </li>
+  <li>
+    <a href="https://medium.com/@kevinsjy997/how-to-solve-slow-or-stall-at-solving-environment-on-anaconda-6dd32a307a67" target="_blank">
+      <h3>How to Solve “Slow or Stall at Solving Environment on Anaconda”</h3>
+    </a>
+    <p>How to enhance speed and seamlessly integrate <a href="https://github.com/mamba-org/mamba">mamba</a> into your existing conda workflow.</p>
+    <p class="date">Published on May 18, 2023</p>
+  </li>
+</ul>
 
-<a href="https://www.kaggle.com/code/pplrayang/cassava-leaf-disease-train-rm-c3/notebook">
-  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
-</a>
-<hr>
+## 🤝 Contributing
 
-#### Tweet Sentiment Extraction
+If you have any suggestions for improving my projects, feel free to open an issue or create a pull request. Let's make something great together!
 
-<div>
-<img src="https://img.shields.io/badge/task-natural%20language%20processing-blueviolet">
-<img src="https://img.shields.io/badge/model-roBERTa-blue">
-<img src="https://img.shields.io/badge/model-BERT-blue">
-<img src="https://img.shields.io/badge/Jaccard%20score-0.7146-brightgreen">
-<img src="https://img.shields.io/badge/rank-Top%2018%25-brightgreen">
-</div>
+<style>
+  .tech-icon {
+    height: 36px;
+    width: 36px;
+    vertical-align: top;
+    margin: 4px;
+  }
+  
+  .invertible-icon {
+    height: 36px;
+    width: 36px;
+    vertical-align: top;
+    margin: 4px;
+    filter: invert(1) hue-rotate(180deg) brightness(120%); /* Invert colors */
+  }
 
-<div>
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Capriola&size=14&duration=3000&pause=500&color=4485F7&vCenter=true&multiline=true&width=320&height=110&lines=What+is+the+sentiment+of+the+following+text%3F;%22that%60s+great!!+weee!!+visitors!%22;The+sentiment+is+%22Positive%22.;Why%3F;Because+the+appearance+of+%22that%60s+great!!%22" alt="Typing SVG" /></a>
+  .blog-posts {
+    list-style-type: none;
+    padding: 0;
+  }
 
-###### March 23, 2020 - June 16, 2020
+  .blog-posts li {
+    margin-bottom: 20px;
+  }
 
-<a href="https://www.kaggle.com/code/pplrayang/kernel1d32063459/notebook">
-  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
-</a>
-<hr>
+  .blog-posts a {
+    text-decoration: none;
+  }
 
-#### Generative Dog Images
+  .blog-posts h3 {
+    margin: 0;
+    color: #0366d6; /* Default link color */
+  }
 
-<div>
-<img src="https://img.shields.io/badge/task-GANs-blueviolet">
-<img src="https://img.shields.io/badge/model-DCGAN-blue">
-<img src="https://img.shields.io/badge/MiFID-166.9341-brightgreen">
-<img src="https://img.shields.io/badge/rank-Top%2044%25-brightgreen">
-</div>
+  .blog-posts p {
+    margin: 0;
+  }
 
-<div>
-  <img style="width:320px;height:320px;background-color:white;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/generative_dog_1.png" />
-</div>
+  .blog-posts .date {
+    font-size: 0.9em;
+  }
 
-###### June 28, 2019 - August 28, 2019
+  .learning-list {
+    list-style-type: none;
+    padding-left: 0;
+  }
 
-<a href="https://www.kaggle.com/pplrayang/dcgan-large-batch/notebook">
-  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
-</a>
-<hr>
+  .learning-item {
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+  }
 
-#### Customer Personality Analysis
+  @media (prefers-color-scheme: dark) {
+    .blog-posts h3 {
+      color: #58a6ff; /* Link color for dark theme */
+    }
 
-<div>
-<img src="https://img.shields.io/badge/task-clustering%20analysis-blueviolet">
-<img src="https://img.shields.io/badge/model-rule--based%20systems-blue">
-</div>
+    hr {
+      border: 1px solid #444;
+    }
 
-<div>
-  <img style="width:320px;height:320px;" src="https://github.com/sjyangkevin/sjyangkevin/blob/main/images/cluster_1.png" /> 
-</div>
+    .blog-posts .date {
+      color: #ccc; /* Text color for dark theme */
+    }
+  }
 
-|id  |antecedents                                      |consequents         |confidence|
-|----|-------------------------------------------------|--------------------|----------|
-|3502|(IncomeGroup_High Income, HasChildren_No, Fish...|(Meat_Biggest Buyer)|0.903084|
-|2538|(IncomeGroup_High Income, HasChildren_No, Clus...|(Meat_Biggest Buyer)|0.885167|
-|3474|(Wines_Biggest Buyer, IncomeGroup_High Income,...|(Meat_Biggest Buyer)|0.878261|
-|3058|(IncomeGroup_High Income, Education_Graduation...|(Meat_Biggest Buyer)|0.873171|
-|3488|(IncomeGroup_High Income, HasChildren_No, Frui...|(Meat_Biggest Buyer)|0.871429|
-
-###### November, 2021
-
-<a href="https://www.kaggle.com/sjyangkevin/eda-customer-segmentations-top-k-product-buyers">
-  <img src="https://img.shields.io/badge/Kaggle%20Notebook-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle notebook"/>
-</a>
-<hr>
-
-# :computer: My software development portfolio
-
-#### PC Components Stock Viewer
-
-<div>
-<img src="https://img.shields.io/badge/task-web%20crawling-blueviolet">
-<img src="https://img.shields.io/badge/task-web%20application-blueviolet">
-<img src="https://img.shields.io/badge/languages-Python-blue">
-<img src="https://img.shields.io/badge/languages-Javascript-blue">
-<img src="https://img.shields.io/badge/database-MongoDB-yellow">
-<img src="https://img.shields.io/badge/frameworks-Scrapy-brightgreen">
-<img src="https://img.shields.io/badge/frameworks-Flask-brightgreen">
-<img src="https://img.shields.io/badge/tools-Docker-ff69b4">
-</div>
-
-<div>
-  <img style="width:460px;height:360px;" src="https://github.com/sjyangkevin/pc-components-stock-monitor/raw/main/images/main_page.png" />
-</div>
-
-###### December, 2022
-
-<a href="https://github.com/sjyangkevin/pc-components-stock-monitor">
-  <img src="https://img.shields.io/badge/GitHub%20Repo-blue?style=for-the-badge&logo=github&logoColor=white" alt="github repo"/>
-</a>
-<hr>
-
-<!--
-**sjyangkevin/sjyangkevin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  @media (prefers-color-scheme: light) {
+    .invertible-icon {
+      filter: none; /* Use original colors for light theme */
+    }
+  }
+</style>
