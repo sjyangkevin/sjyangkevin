@@ -1,4 +1,4 @@
-# Hi there, I'm Shijin (Kevin) Yang 👋
+# Hi there, I'm Kevin Yang 👋
 <p>
   <a href="https://www.linkedin.com/in/kevinshijinyang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://medium.com/@kevinsjy997"><img src="https://img.shields.io/badge/Medium-2d2d2d?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
