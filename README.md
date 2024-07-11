@@ -85,6 +85,11 @@ How to enhance speed and seamlessly integrate Mamba into your existing conda wor
 If you have any suggestions for improving my projects, feel free to open an issue or create a pull request. Let's make something great together!  
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <div align="right">
