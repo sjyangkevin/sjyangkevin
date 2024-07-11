@@ -5,7 +5,7 @@
   <a href="https://www.youtube.com/@kevinkevinya"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/></a>
 </p>
 
-Welcome to my GitHub profile! I'm a data engineer with a passion for big data and machine learning.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=36&duration=3600&pause=720&color=FF8800&background=FFFFFF00&multiline=true&random=false&width=435&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)
 
 ## 🔧 Technologies & Tools
 
