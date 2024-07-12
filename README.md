@@ -50,7 +50,7 @@
 
 ## 🌱 Currently Learning
 
-✨ Large language models (LLMs) and Generative AI  
+✨ Artificial general intelligence (AGI)  
 📱 Mobile app development using React Native and Expo framework  
 🎓 Master study in Computer Science with a concentration in Computing Systems  
 
