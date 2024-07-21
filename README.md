@@ -54,6 +54,18 @@
 📱 Mobile app development using React Native and Expo framework  
 🎓 Master study in Computer Science with a concentration in Computing Systems  
 
+## 📖 Currently Reading
+
+<a href="https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4313101&R=4313101">
+  <strong>
+    Designing data-intensive applications:
+  </strong>
+  <br>
+  <p>
+    The big ideas behind reliable, scalable, and maintainable systems
+  </p>
+</a>
+
 ## 📚 My Recent Blog Posts
 
 **[Configure Docker to Use Local GPU for Training ML Models](https://medium.com/@kevinsjy997/configure-docker-to-use-local-gpu-for-training-ml-models-70980168ec9b)**  
@@ -78,7 +90,22 @@ Learn basic prompt engineering and using Google Vertex AI Palm 2 API.
 How to enhance speed and seamlessly integrate Mamba into your existing conda workflow.  
 *Published on May 18, 2023*  
 
----
+## 📜 Certifications
+<a href="https://www.credly.com/badges/62760a97-3839-4f89-a835-e07fcea6f144/public_url"><img src="assets/images/microsoft-az900-96x96.png" alt="Microsoft Certified: Azure Fundamentals" height="96" width="96" /></a>
+
+**[Microsoft Certified: Azure Fundamentals](https://www.credly.com/badges/62760a97-3839-4f89-a835-e07fcea6f144/public_url)**  
+Earners of the Azure Fundamentals certification have demonstrated foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.  
+
+_Issued by_ [Microsoft](https://www.credly.com/org/microsoft-certification)  
+_Issued on October 28, 2022_
+
+<a href="https://coursera.org/share/86d68e9313537b8faa4a65b2410ac6a5"><img src="assets/icons/coursera.svg" alt="Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization" height="96" width="96" /></a>
+
+**[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/86d68e9313537b8faa4a65b2410ac6a5)**  
+The best practices to train and develop deep learning applications, and implement a neural network in TensorFlow.
+
+_Issued by_ [DeepLearning.AI](https://www.deeplearning.ai/)  
+_Issued on July 4, 2021_
 
 ## 🤝 Contributing
 
