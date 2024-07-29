@@ -1,5 +1,7 @@
 # Hi there, I'm Kevin Yang 👋
 
+<img src="./assets/images/badge.png">  
+
 <a href="https://www.linkedin.com/in/kevinshijinyang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@kevinsjy997"><img src="https://img.shields.io/badge/Medium-2d2d2d?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
 <a href="https://www.youtube.com/@kevinkevinya"><img src="https://img.shields.io/badge/YouTube-red?style=flat-square&logo=youtube&logoColor=white" alt="Youtube"/></a>
@@ -100,12 +102,6 @@ _Issued by_ [Microsoft](https://www.credly.com/org/microsoft-certification)
 _Issued on October 28, 2022_
 
 <a href="https://coursera.org/share/86d68e9313537b8faa4a65b2410ac6a5"><img src="assets/icons/coursera.svg" alt="Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization" height="96" width="96" /></a>
-
-**[Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization](https://coursera.org/share/86d68e9313537b8faa4a65b2410ac6a5)**  
-The best practices to train and develop deep learning applications, and implement a neural network in TensorFlow.
-
-_Issued by_ [DeepLearning.AI](https://www.deeplearning.ai/)  
-_Issued on July 4, 2021_
 
 ## 🤝 Contributing
 
