@@ -59,12 +59,8 @@
 ## 📖 Currently Reading
 
 <a href="https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4313101&R=4313101">
-  <strong>
-    Designing data-intensive applications:
-  </strong>
-  <br>
   <p>
-    The big ideas behind reliable, scalable, and maintainable systems
+    Designing data-intensive applications: The big ideas behind reliable, scalable, and maintainable systems
   </p>
 </a>
 
