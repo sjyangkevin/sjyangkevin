@@ -1,6 +1,6 @@
 # Hi there, I'm Kevin Yang 👋
 
-<img src="./assets/images/badge.png">  
+<img src="./assets/images/badge.png" width="387">  
 
 <a href="https://www.linkedin.com/in/kevinshijinyang/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://medium.com/@kevinsjy997"><img src="https://img.shields.io/badge/Medium-2d2d2d?style=flat-square&logo=medium&logoColor=white" alt="Medium"/></a>
