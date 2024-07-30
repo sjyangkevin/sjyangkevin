@@ -101,8 +101,6 @@ Earners of the Azure Fundamentals certification have demonstrated foundational l
 _Issued by_ [Microsoft](https://www.credly.com/org/microsoft-certification)  
 _Issued on October 28, 2022_
 
-<a href="https://coursera.org/share/86d68e9313537b8faa4a65b2410ac6a5"><img src="assets/icons/coursera.svg" alt="Improving Deep Neural Networks: Hyperparameter Tuning, Regularization and Optimization" height="96" width="96" /></a>
-
 ## 🤝 Contributing
 
 If you have any suggestions for improving my projects, feel free to open an issue or create a pull request. Let's make something great together!  
