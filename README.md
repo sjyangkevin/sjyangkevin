@@ -45,12 +45,6 @@
 <a href="https://github.com/features/actions"><img src="assets/icons/github-actions.svg" alt="GitHub Actions" height="48" width="48" /></a>
 <a href="https://git-scm.com/"><img src="assets/icons/git-icon.svg" alt="Git" height="48" width="48" /></a>
 
-## 🌱 Currently Learning
-
-✨ Artificial general intelligence (AGI)  
-📱 Mobile app development using React Native and Expo framework  
-🎓 Master study in Computer Science with a concentration in Computing Systems  
-
 ## 📚 My Recent Blog Posts
 
 **[Configure Docker to Use Local GPU for Training ML Models](https://medium.com/@kevinsjy997/configure-docker-to-use-local-gpu-for-training-ml-models-70980168ec9b)**  
