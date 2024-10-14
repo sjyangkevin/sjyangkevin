@@ -51,14 +51,6 @@
 📱 Mobile app development using React Native and Expo framework  
 🎓 Master study in Computer Science with a concentration in Computing Systems  
 
-## 📖 Currently Reading
-
-<a href="https://www.torontopubliclibrary.ca/detail.jsp?Entt=RDM4313101&R=4313101">
-  <p>
-    Designing data-intensive applications: The big ideas behind reliable, scalable, and maintainable systems
-  </p>
-</a>
-
 ## 📚 My Recent Blog Posts
 
 **[Configure Docker to Use Local GPU for Training ML Models](https://medium.com/@kevinsjy997/configure-docker-to-use-local-gpu-for-training-ml-models-70980168ec9b)**  
