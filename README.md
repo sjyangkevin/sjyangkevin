@@ -24,7 +24,9 @@
 <a href="https://hive.apache.org/"><img src="assets/icons/Apache_Hive_logo.svg" alt="Apache Hive" height="48" width="48" /></a>
 <a href="https://airflow.apache.org/"><img src="assets/icons/airflow-icon.svg" alt="Apache Airflow" height="48" width="48" /></a>
 <a href="https://trino.io/"><img src="assets/images/trino.png" alt="Trino" height="72" width="48" /></a>
-<a href="https://kafka.apache.org/"><img src="assets/icons/kafka-icon.svg" alt="Kafka" height="48" width="48" /></a>
+<a href="https://kafka.apache.org/"><img src="assets/icons/kafka-icon.svg" alt="Apache Kafka" height="48" width="48" /></a>
+<a href="https://iceberg.apache.org/"><img src="assets/images/iceberg-logo-icon.png" alt="Apache Iceberg" height="48" width="48" /></a>
+<a href="https://hudi.apache.org/"><img src="assets/images/hudi-logo-big.png" alt="Apache Hudi" height="48" width="64" /></a>
 
 ### Machine Learning, AI
 
