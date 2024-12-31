@@ -16,13 +16,24 @@
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="assets/icons/c.svg" alt="C programming language" height="48" width="48" /></a>
 <a href="https://dev.java/"><img src="assets/icons/java.svg" alt="Java" height="48" width="48" /></a>
 
-### Big Data, Machine Learning
+### Data Engineering
 
 <a href="https://spark.apache.org/"><img src="assets/icons/apache-spark.svg" alt="Apache Spark" height="48" width="48" /></a>
+<a href="https://flink.apache.org/"><img src="assets/icons/apache-flink-icon.svg" alt="Apache Flink" height="48" width="48" /></a>
 <a href="https://hadoop.apache.org/"><img src="assets/icons/hadoop.svg" alt="Apache Hadoop" height="48" width="48" /></a>
+<a href="https://hive.apache.org/"><img src="assets/icons/Apache_Hive_logo.svg" alt="Apache Hive" height="48" width="48" /></a>
 <a href="https://airflow.apache.org/"><img src="assets/icons/airflow-icon.svg" alt="Apache Airflow" height="48" width="48" /></a>
+<a href="https://trino.io/"><img src="assets/images/trino.png" alt="Trino" height="72" width="48" /></a>
+<a href="https://kafka.apache.org/"><img src="assets/icons/kafka-icon.svg" alt="Kafka" height="48" width="48" /></a>
+
+### Machine Learning, AI
+
 <a href="https://pytorch.org/"><img src="assets/icons/pytorch-icon.svg" alt="PyTorch" height="48" width="48" /></a>
 <a href="https://www.tensorflow.org/"><img src="assets/icons/tensorflow.svg" alt="TensorFlow" height="48" width="48" /></a>
+<a href="https://huggingface.co/"><img src="assets/icons/hugging-face-icon.svg" alt="Hugging Face" height="48" width="48" /></a>
+<a href="https://www.llamaindex.ai/"><img src="assets/images/LlamaLogo-Square.png" alt="LlamaIndex" height="52" width="52" /></a>
+<a href="https://www.langchain.com/"><img src="assets/icons/Langchain--Streamline-Simple-Icons.svg" alt="LangChain" height="52" width="52" /></a>
+<a href="https://www.trychroma.com/"><img src="assets/icons/chroma.svg" alt="Chroma" height="48" width="48" /></a>
 
 ### Web, Mobile Development
 
@@ -40,10 +51,10 @@
 <a href="https://azure.microsoft.com/"><img src="assets/icons/microsoft-azure.svg" alt="Azure" height="48" width="48" /></a>
 <a href="https://aws.amazon.com/"><img src="assets/icons/aws.svg" alt="Amazon Web Services" height="48" width="48" /></a>
 <a href="https://www.docker.com/"><img src="assets/icons/docker-icon.svg" alt="Docker" height="48" width="48" /></a>
+<a href="https://kubernetes.io/"><img src="assets/icons/kubernetes.svg" alt="Kubernetes" height="48" width="48" /></a>
 <a href="https://www.terraform.io/"><img src="assets/icons/terraform-icon.svg" alt="Terraform" height="48" width="48" /></a>
 <a href="https://www.jenkins.io/"><img src="assets/icons/jenkins.svg" alt="Jenkins" height="48" width="48" /></a>
 <a href="https://github.com/features/actions"><img src="assets/icons/github-actions.svg" alt="GitHub Actions" height="48" width="48" /></a>
-<a href="https://git-scm.com/"><img src="assets/icons/git-icon.svg" alt="Git" height="48" width="48" /></a>
 
 ## 📚 My Recent Blog Posts
 
