@@ -94,7 +94,3 @@ _Issued on October 28, 2022_
 ## 🤝 Contributing
 
 If you have any suggestions for improving my projects, feel free to open an issue or create a pull request. Let's make something great together!  
-
-<div align="right">
-  <img src="https://komarev.com/ghpvc/?username=sjyangkevin&style=plastic&color=brightgreen" alt="Profile View"/>
-</div>
