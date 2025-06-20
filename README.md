@@ -60,6 +60,12 @@
 
 ## 📚 My Recent Blog Posts
 
+**[Making Asset-Aware Scheduling More Flexible in Apache Airflow](https://kevinkevinya.substack.com/?r=2waihj&utm_campaign=pub&utm_medium=web)**  
+Enabling More Use Cases by Passing Asset Events Associated with Asset Alias to Consumer DAG Run Context.  
+*Published on Jun 18, 2025*  
+
+---
+
 **[Configure Docker to Use Local GPU for Training ML Models](https://medium.com/@kevinsjy997/configure-docker-to-use-local-gpu-for-training-ml-models-70980168ec9b)**  
 How to configure your local machine to run a Docker container with access to your GPU devices.  
 *Published on July 19, 2023*  
@@ -75,12 +81,6 @@ Understand the evolution of Git branching models and best practices.
 **[Fundamental Prompt Engineering Guide with Vertex AI PaLM API](https://medium.com/gopenai/fundamental-prompt-engineering-guide-with-vertex-ai-palm-api-c9f307413d85)**  
 Learn basic prompt engineering and using Google Vertex AI Palm 2 API.  
 *Published on May 30, 2023*  
-
----
-
-**[How to Solve “Slow or Stall at Solving Environment on Anaconda”](https://medium.com/@kevinsjy997/how-to-solve-slow-or-stall-at-solving-environment-on-anaconda-6dd32a307a67)**  
-How to enhance speed and seamlessly integrate Mamba into your existing conda workflow.  
-*Published on May 18, 2023*  
 
 ## 📜 Certifications
 <a href="https://www.credly.com/badges/62760a97-3839-4f89-a835-e07fcea6f144/public_url"><img src="assets/images/microsoft-az900-96x96.png" alt="Microsoft Certified: Azure Fundamentals" height="96" width="96" /></a>
